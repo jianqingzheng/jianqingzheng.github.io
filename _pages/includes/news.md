@@ -3,7 +3,7 @@
 <ul style="width: auto; height: 150px; overflow: auto; background-color: #F7F7F7">
 	<li>[2023.01]: One journal paper is accepted by <i>Computerized Medical Image and Graphics</i> (IF:7.4).
 	</li>
-	<li> [2022.11]: 🎉 Our collaborative research is reported by <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a> and in the <a href="https://www.linkedin.com/posts/engineering-science-university-of-oxford_nearly-two-and-a-half-years-into-the-covid-activity-6996775726351818752-AjOr">LinkedIn</a>!
+	<li>[2022.11]: 🎉 Our collaborative research is reported by <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a> and in the <a href="https://www.linkedin.com/posts/engineering-science-university-of-oxford_nearly-two-and-a-half-years-into-the-covid-activity-6996775726351818752-AjOr">LinkedIn</a>!
 	</li>
 	<li>[2022.10]: 🎉 Our collaborative research is translated and reported by media <a href="https://mp.weixin.qq.com/s/fDeRXs8Cq0L_LzYvZlI1iA">iNature</a> and <a href="http://news.nankai.edu.cn/ywsd/system/2022/10/12/030053111.shtml">南开新闻 (news.nankai.edu.cn)</a>!
 	</li>

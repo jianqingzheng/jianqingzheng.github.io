@@ -9,7 +9,7 @@
 <li> - Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences</li>
 </ul>
 </span>
-<a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym"></a>
+<a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym" width="40px"></a>
 </div>
 
 <div class="logo-box">

@@ -13,15 +13,15 @@
 </div>
 
 <div class="logo-box">
-<div class="logo-img">
-<a href=""><img src='images/logo/Imperial_College_London-logo.png' alt="sym" width="100"></a>
-</div>
 <div class="logo-text">
 <h3><i>Imperial College London</i>, <div style="float:right;">2017-2018</div></h3> 
 <ul style="line-height: 100%">
 <li> <b>M.Res. in Medical Robotics & Image Guide Intervention <div style="float:right;">(Distinction)</div></b> </li>
 <li> Hamlyn Center for Robotic Surgery & Department of Surgery and Cancer </li>
 </ul>
+</div>
+<div class="logo-img">
+<a href=""><img src='images/logo/Imperial_College_London-logo.png' alt="sym" width="100"></a>
 </div>
 </div>
 

@@ -110,13 +110,14 @@
 
     img {
             float: right;
-            vertical-align:text-top;
+            //vertical-align:text-top;
             max-width: 40px;
             //box-shadow: 3px 3px 6px #888;
             object-fit: cover;
             margin: 0 0 0 1em;
         }
-    ul {
+    span {width: 400px;}
+    span ul {
             text-align: justify;
             line-height: 100%;
             width: 400px;
@@ -129,7 +130,7 @@
         text-align: left;
         order: 2;
         img {
-            vertical-align:text-top;
+            //vertical-align:text-top;
             max-width: 40px;
             //box-shadow: 3px 3px 6px #888;
             object-fit: cover;

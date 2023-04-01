@@ -109,7 +109,8 @@
     //margin-bottom:1em;
 
     img {
-            float: right;
+            //float: right;
+            text-align: right;
             //vertical-align:text-top;
             max-width: 40px;
             //box-shadow: 3px 3px 6px #888;
@@ -126,7 +127,7 @@
         }
 
     .logo-img {
-        float:right;
+        float:left;
         text-align: left;
         order: 2;
         max-width: 40px;

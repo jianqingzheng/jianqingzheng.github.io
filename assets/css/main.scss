@@ -99,7 +99,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: .5em 0 .5em 0;
+    padding: 0 0 .5em 0;
     //border-bottom: 1px #efefef solid;
     //background-color: #F7F9F9;
     //padding:0.7em;
@@ -112,12 +112,17 @@
             max-width: 50px;
             //box-shadow: 3px 3px 6px #888;
             object-fit: cover;
+            margin: 1em;
         }
     }
     .logo-text{
+        float:right;
         max-width: 100%;
         order: 2;
-        ul {line-height: 100%}
+        ul {
+            line-height: 100%;
+            padding:1em;
+        }
     }
 
     @include breakpoint($medium) {

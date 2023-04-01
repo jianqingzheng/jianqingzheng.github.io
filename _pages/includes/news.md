@@ -13,6 +13,6 @@
 	</li>
 	<li>[2022.06]: One conference paper is accepted by <i>MICCAI 2022</i>.
 	</li>
-	<li>[2022.06]: Two conference paper is accepted by <i>MIUA 2022</i>, one oral presentation and one poster session.
+	<li>[2022.05]: Two conference paper is accepted by <i>MIUA 2022</i>, one oral presentation and one poster session.
 	</li>
 </ul>

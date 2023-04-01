@@ -106,12 +106,18 @@
     //text-align:left;
     //margin-bottom:1em;
 
-    img {
+    .logo-img {
+        order: 1;
+        img {
             max-width: 100px;
             //box-shadow: 3px 3px 6px #888;
             object-fit: cover;
+        }
     }
-
+    .logo-text{
+        max-width: 100%;
+        order: 2;
+    }
 
     @include breakpoint($medium) {
         .img {

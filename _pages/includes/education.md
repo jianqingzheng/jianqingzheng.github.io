@@ -2,7 +2,10 @@
 
 
 <div class="logo-box">
+<div class="logo-img">
 <a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym" width="100"></a>
+</div>
+<div class="logo-text">
 <h3>
 <i>University of Oxford</i>, <div style="float:right;">2019-2023</div>
 </h3> 
@@ -10,6 +13,7 @@
 <li> <b>D.Phil. in Molecular and Cellular Medicine <div style="float:right;">(expected)</div></b> </li>
 <li> Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences</li>
 </ul>
+</div>
 </div>
 
 <h3><i>Imperial College London</i>, <div style="float:right;">2017-2018</div></h3> 

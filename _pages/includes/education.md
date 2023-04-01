@@ -1,6 +1,6 @@
 #  <i class="fas fa-user-graduate"></i> Educations
 
-<a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym" width=1.2em></a>
+<a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym" width="100"></a>
 <h3>
 <i>University of Oxford</i>, <div style="float:right;">2019-2023</div>
 </h3> 

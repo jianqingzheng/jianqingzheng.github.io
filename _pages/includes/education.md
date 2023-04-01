@@ -1,5 +1,8 @@
 #  <i class="fas fa-user-graduate"></i> Educations
-<h3><i>University of Oxford</i>, <div style="float:right;">2019-2023</div></h3> 
+<h3>
+<a href=""><img src="images/logo/Oxford-Univ-logo.png" width=1.2em></a>
+<i>University of Oxford</i>, <div style="float:right;">2019-2023</div>
+</h3> 
 <ul style="line-height: 100%">
 <li> <b>D.Phil. in Molecular and Cellular Medicine <div style="float:right;">(expected)</div></b> </li>
 <li> Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences</li>

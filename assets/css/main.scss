@@ -96,8 +96,8 @@
 .logo-box {
     display: inline-block;
     justify-content: left;
-    text-align: left;
-    align-items: center;
+    text-align: justify;
+    //align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
     margin: 0;
@@ -129,6 +129,7 @@
         float:right;
         text-align: left;
         order: 2;
+        max-width: 40px;
         //a img {
         //    //vertical-align:text-top;
         //    max-width: 40px;
@@ -143,12 +144,12 @@
         text-align: justify;
         max-width: 200%;
         order: 1;
-        //ul {
-        //    line-height: 100%;
-        //    width: 400px;
-        //    //padding: 0 1em 0 0;
-        //    //margin: 0 1em 0 0;
-        //}
+        ul {
+            line-height: 100%;
+            text-align: justify;
+            //padding: 0 1em 0 0;
+            //margin: 0 1em 0 0;
+        }
     }
 
     @include breakpoint($medium) {

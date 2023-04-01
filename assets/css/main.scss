@@ -109,7 +109,7 @@
     .logo-img {
         order: 1;
         img {
-            max-width: 100px;
+            max-width: 50px;
             //box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -117,6 +117,7 @@
     .logo-text{
         max-width: 100%;
         order: 2;
+        ul {line-height: 100%}
     }
 
     @include breakpoint($medium) {

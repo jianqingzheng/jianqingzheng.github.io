@@ -28,8 +28,8 @@
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">CMIG (IF:7.4) + MICCAIW 2020</div>
-<img src='images/pubs/dnet-graphic_abstract.jpg' alt="sym" width="100%">
-<img src='images/pubs/cartilage_area.jpg' alt="sym" width="100%"></div></div>
+<img src='images/pubs/dnet-graphic_abstract.jpg' alt="sym" width="100%" title="D-net can align two CT volume from arbitrary orientation.">
+<img src='images/pubs/cartilage_area.jpg' alt="sym" width="100%" title="The subtraction between aligned CT scans with and without contrast enhancement highlights the cartilage area."></div></div>
 <div class='paper-box-text' markdown="1">
 [Accurate volume alignment of arbitrarily oriented tibiae based on a mutual attention network for osteoarthritis analysis](https://www.sciencedirect.com/science/article/pii/S0895611123000228)
 \| [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.compmedimag.2023.102204-darkyellow)](https://doi.org/10.1016/j.compmedimag.2023.102204)
@@ -55,8 +55,8 @@
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICRA 2020</div>
-<img src='images/pubs/125.gif' alt="sym" width="49%">
-<img src='images/pubs/139.gif' alt="sym" width="49%"></div></div>
+<img src='images/pubs/125.gif' alt="sym" width="49%" title="The dilation setting (1,2,5...) in DeepLab results in a smaller receptive field even though with more layers.">
+<img src='images/pubs/139.gif' alt="sym" width="49%" title="Our dilation setting (1,3,9...) in ACNN results in a larger receptive field with fewer layers."></div></div>
 <div class='paper-box-text' markdown="1">
 [ACNN: a Full Resolution DCNN for Medical Image Segmentation](https://doi.org/10.1109/ICRA40945.2020.9197328)
 
@@ -78,8 +78,8 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICRA 2019</div>
-<img src='images/pubs/demo-recover.gif' alt="sym" width="50%">
-<img src='images/pubs/demo-visual.gif' alt="sym" width="48%"></div></div>
+<img src='images/pubs/demo-recover.gif' alt="sym" width="50%" title="The 3D abdominal aortic center line recovered from one 2D X-ray image.">
+<img src='images/pubs/demo-visual.gif' alt="sym" width="48%" title="How it looks like when a catheter moves along the recovered center line of aorta."></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards 3D Path Planning from a Single 2D Fluoroscopic Image for Fenestrated Endovascular Aortic Repair](https://ieeexplore.ieee.org/abstract/document/8793918)
 

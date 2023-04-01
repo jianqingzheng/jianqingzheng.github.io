@@ -2,7 +2,6 @@
 
 
 <div class="logo-box">
-<a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym"></a>
 <span>
 <ul>
 <li> <b><i>University of Oxford</i></b>, <div style="float:right;">2019-2023</div> </li>
@@ -10,6 +9,7 @@
 <li> - Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences</li>
 </ul>
 </span>
+<a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym"></a>
 </div>
 
 <div class="logo-box">

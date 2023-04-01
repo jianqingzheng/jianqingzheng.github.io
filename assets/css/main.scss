@@ -94,15 +94,15 @@
 .galery-logo a img{padding:0; margin:8px;}
 
 .logo-box {
-    display: flex;
+    //display: flex;
     justify-content: left;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 0 0 .5em 0;
+    //padding: 0 0 .5em 0;
     //border-bottom: 1px #efefef solid;
     //background-color: #F7F9F9;
-    //padding:0.7em;
+    padding:0;
     //text-align:left;
     //margin-bottom:1em;
 
@@ -122,7 +122,7 @@
         order: 2;
         ul {
             line-height: 100%;
-            padding:1em;
+            padding:0;
         }
     }
 

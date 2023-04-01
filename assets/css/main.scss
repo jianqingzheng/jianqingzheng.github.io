@@ -95,9 +95,9 @@
 
 .logo-box {
     display: inline-block;
-    justify-content: left;
+    //justify-content: left;
     text-align: justify;
-    //align-items: center;
+    align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
     margin: 0;
@@ -127,7 +127,7 @@
         }
 
     .logo-img {
-        float:left;
+        float:right;
         text-align: left;
         order: 2;
         max-width: 40px;

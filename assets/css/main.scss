@@ -95,7 +95,7 @@
 
 .logo-box {
     //display: flex;
-    justify-content: left;
+    //justify-content: left;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -107,7 +107,7 @@
     //margin-bottom:1em;
 
     .logo-img {
-        float:left;
+        //float:left;
         order: 1;
         img {
             max-width: 50px;

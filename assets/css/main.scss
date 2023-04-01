@@ -127,6 +127,8 @@
         text-align: left;
         order: 1;
         width: 7%;
+        margin: 0;
+        padding: 0;
         a img {
             //vertical-align:text-top;
             max-width: 40px;
@@ -142,12 +144,14 @@
         text-align: left;
         width: 93%;
         order: 2;
+        padding: 0;
+        margin: 0;
         ul {
             max-width: 100%;
             line-height: 120%;
             text-align: left;
-            //padding: 0 1em 0 0;
-            //margin: 0 1em 0 0;
+            //padding: 0;
+            //margin: 0;
         }
     }
 

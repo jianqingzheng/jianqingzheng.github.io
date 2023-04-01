@@ -1,0 +1,26 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+#    url: "/#-selected-publications-google-scholar"
+    url: "/#-selected-publications"
+
+  - title: "Awards"
+    url: "/#-honors--awards"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Talks"
+    url: "/#-talks"
+
+  - title: "Academic Services"
+    url: "/#-academic-services"
+
+  - title: "Work"
+    url: "/#-work-experiences"

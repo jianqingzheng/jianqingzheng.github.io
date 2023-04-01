@@ -6,8 +6,8 @@
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Preprint</div>
-<img src='images/pubs/RAN-graphic_abstract.jpg' alt="sym" width="100%">
-<img src='images/pubs/def_reg_lung-miua.gif' alt="sym" width="100%"></div></div>
+<img src='images/pubs/RAN-graphic_abstract.jpg' alt="sym" width="100%" title="The graphic abstract of Residual Aligner Network.">
+<img src='images/pubs/def_reg_lung-miua.gif' alt="sym" width="100%" title="An examplar deformable registration result"></div></div>
 <div class='paper-box-text' markdown="1">
 [Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://arxiv.org/abs/2203.04290)
 

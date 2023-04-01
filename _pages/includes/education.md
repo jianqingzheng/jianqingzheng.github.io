@@ -18,7 +18,7 @@
 
 <div class="logo-box">
 <div class="logo-img">
-<a href=""><img src='images/logo/Imperial_College_London-logo-logo.png' alt="sym" width="100"></a>
+<a href=""><img src='images/logo/Imperial_College_London-logo.png' alt="sym" width="100"></a>
 </div>
 <div class="logo-text">
 <h3><i>Imperial College London</i>, <div style="float:right;">2017-2018</div></h3> 

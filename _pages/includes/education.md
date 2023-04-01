@@ -2,7 +2,7 @@
 
 <div class="logo-box">
 <div class="logo-img">
-<a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym"></a>
+<a href="https://www.ox.ac.uk/"><img src='images/logo/Oxford-Univ-logo.png' alt="sym" max-width="50px"></a>
 </div>
 <div class="logo-text">
 <h3><i>University of Oxford</i>, <div style="float:right;">2019-2023</div></h3> 
@@ -15,7 +15,7 @@
 
 <div class="logo-box">
 <div class="logo-img">
-<a href=""><img src='images/logo/Imperial_College_London-logo.png' alt="sym"></a>
+<a href="https://www.imperial.ac.uk/"><img src='images/logo/Imperial_College_London-logo.png' alt="sym"></a>
 </div>
 <div class="logo-text">
 <h3><i>Imperial College London</i>, <div style="float:right;">2017-2018</div></h3> 
@@ -28,7 +28,7 @@
 
 <div class="logo-box">
 <div class="logo-img">
-<a href=""><img src='images/logo/liverpool_univ_logo.jpg' alt="sym"></a>
+<a href="https://www.liverpool.ac.uk/"><img src='images/logo/liverpool_univ_logo.jpg' alt="sym"></a>
 </div>
 <div class="logo-text">
 <h3><i>University of Liverpool</i>, <div style="float:right;">2015-2017</div></h3> 
@@ -41,7 +41,7 @@
 
 <div class="logo-box">
 <div class="logo-img">
-<a href=""><img src='images/logo/xjtlu-logo.jpg' alt="sym"></a>
+<a href="https://www.xjtlu.edu.cn/en"><img src='images/logo/xjtlu-logo.jpg' alt="sym"></a>
 </div>
 <div class="logo-text">
 <h3><i>Xi'an Jiaotong-Liverpool University</i>, <div style="float:right;">2013-2015</div></h3> 

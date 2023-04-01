@@ -12,3 +12,7 @@
 	</a>
 </div>
 
+<br />
+<p style="text-align: right">
+<small> Thank Mr. Yi Ren for sharing the source code of the website. </small>
+</p>

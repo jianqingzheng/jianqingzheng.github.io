@@ -7,9 +7,9 @@
 </div>
 <div class="logo-text">
 <ul style="line-height: 100%; text-align: justify">
-<li> <huge><i>University of Oxford</i></huge>, <div style="float:right;">2019-2023</div> </li>
-<li> <b>D.Phil. in Molecular and Cellular Medicine <div style="float:right;">(expected)</div></b> </li>
-<li> Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences</li>
+<li> <b><i>University of Oxford</i></b>, <div style="float:right;">2019-2023</div> </li>
+<li> - <b>D.Phil. in Molecular and Cellular Medicine <div style="float:right;">(expected)</div></b> </li>
+<li> - Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences</li>
 </ul>
 </div>
 </div>

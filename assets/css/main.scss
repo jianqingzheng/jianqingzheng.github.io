@@ -109,7 +109,7 @@
     //margin-bottom:1em;
 
     .logo-img {
-        //float:left;
+        float:left;
         text-align: left;
         order: 1;
         img {
@@ -122,7 +122,7 @@
     }
     .logo-text{
         //float:right;
-        text-align: left;
+        text-align: justify;
         max-width: 100%;
         order: 2;
         ul {

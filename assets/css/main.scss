@@ -95,8 +95,8 @@
 
 .logo-box {
     display: inline-block;
-    //justify-content: left;
-    text-align: justify;
+    justify-content: left;
+    //text-align: justify;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -143,7 +143,7 @@
         //float:left;
         //list-style-type:none;
         text-align: left;
-        max-width: 180%;
+        max-width: 80%;
         order: 1;
         ul {
             line-height: 120%;
@@ -154,10 +154,16 @@
     }
 
     @include breakpoint($medium) {
-        .img {
+        .logo-img {
             justify-content: left;
             min-width: 10px;
             max-width: 40%;
+            order: 1;
+        }
+        .logo-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
             order: 2;
         }
     }

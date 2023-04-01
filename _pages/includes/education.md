@@ -31,7 +31,7 @@
 
 <div class="logo-box">
 <div class="logo-img">
-<a href=""><img src='images/logo/liverpool_univ_logo.jpg' alt="sym" width="100"></a>
+<a href=""><img src='images/logo/liverpool_univ_logo.jpg' alt="sym"></a>
 </div>
 <div class="logo-text">
 <h3><i>University of Liverpool</i>, <div style="float:right;">2015-2017</div></h3> 
@@ -44,7 +44,7 @@
 
 <div class="logo-box">
 <div class="logo-img">
-<a href=""><img src='images/logo/xjtlu-logo.jpg' alt="sym" width="100"></a>
+<a href=""><img src='images/logo/xjtlu-logo.jpg' alt="sym"></a>
 </div>
 <div class="logo-text">
 <h3><i>Xi'an Jiaotong-Liverpool University</i>, <div style="float:right;">2013-2015</div></h3> 

@@ -2,7 +2,7 @@
 
 
 <div class="logo-box">
-<a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym" width="100"></a>
+<a href=""><img src='images/logo/Oxford-Univ-logo.png' alt="sym"></a>
 <span>
 <ul>
 <li> <b><i>University of Oxford</i></b>, <div style="float:right;">2019-2023</div> </li>

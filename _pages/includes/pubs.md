@@ -41,7 +41,7 @@
 
 **J. Q. Zheng**, N. H. Lim, B. W. Papiez
 
-- It is the **earliest work** that applies the **attention mechanism** to **image registration**.
+- It is the **earliest work** that applies the **attention mechanism** to **image registration**, enabling **sub-voxel errors** even from an arbitrary initial orientation.
 
 <ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
 	<li>- Alignment of arbitrary oriented CT volumes allows extraction of contrasted cartilage.</li>
@@ -56,7 +56,7 @@
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICRA 2020</div>
 <img src='images/pubs/125.gif' alt="sym" width="49%" title="The dilation setting (1,2,5...) in DeepLab results in a smaller receptive field even though with more layers.">
-<img src='images/pubs/139.gif' alt="sym" width="49%" title="Our dilation setting (1,3,9...) in ACNN results in a larger receptive field with fewer layers."></div></div>
+<img src='images/pubs/139.gif' id="acnn_rf" alt="sym" width="49%" title="Our dilation setting (1,3,9...) in ACNN results in a larger receptive field with fewer layers."></div></div>
 <div class='paper-box-text' markdown="1">
 [ACNN: a Full Resolution DCNN for Medical Image Segmentation](https://doi.org/10.1109/ICRA40945.2020.9197328)
 
@@ -64,7 +64,7 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 
 - [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA40945.2020.9197328-darkyellow)](https://doi.org/10.1109/ICRA40945.2020.9197328) \| [![arXiv](https://img.shields.io/badge/arXiv-1901.09203-b31b1b.svg)](https://arxiv.org/abs/1901.09203) \| [![](https://img.shields.io/github/stars/XiaoYunZhou27/ACNN?style=social&label=Code+Stars)](https://github.com/XiaoYunZhou27/ACNN)
 
-- A **pooling-free structure** is proposed to achieve **full-resolution** feature processing using a **theoretically optimal dilation setting** for a larger receptive field.
+- A **pooling-free structure** is proposed to achieve **full-resolution** feature processing using a **theoretically optimal dilation setting** for a larger receptive field, achieving a higher accuracy with even fewer parameters.
 
 <ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
 	<li>- The left figure shows the receptive field with the dilation setting (1,2,5...) used for DeepLab.</li>
@@ -88,7 +88,7 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 - [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA.2019.8793918-darkyellow)](https://ieeexplore.ieee.org/abstract/document/8793918/)
 \| [![arXiv](https://img.shields.io/badge/arXiv-1809.05955-b31b1b.svg)](https://arxiv.org/abs/1809.05955)
 \| [![](https://img.shields.io/github/stars/jianqingzheng/path_planning_for_FEVAR?style=social&label=Code+Stars)](https://github.com/jianqingzheng/path_planning_for_FEVAR)
-- The first **real-time framework** of 3D intra-operative AAA skeleton instantiation from a single 2D AAA fluoroscopic image is proposed for **3D robotic path planning**.
+- The first **real-time framework** of 3D intra-operative AAA skeleton instantiation from a single 2D AAA fluoroscopic image is proposed for **3D robotic path planning**, achieving **sub-pixel error** in the clinical data.
 
 <ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
 	<li> - Left: the 3D abdominal aortic center line recovered from one 2D X-ray image. </li>
@@ -125,7 +125,7 @@ H. Lou†, **J. Q. Zheng†**, X. Fang, Z. Liang, M. Zhang, Y. Chen, C. Wang, an
 
 - [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow)](https://www.nature.com/articles/s41422-022-00727-6) \| [![](https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+Stars)](https://github.com/jianqingzheng/XBCR-net)
 - This work is translated and reported by media [iNature](https://mp.weixin.qq.com/s/fDeRXs8Cq0L_LzYvZlI1iA), [南开新闻 (news.nankai.edu.cn)](http://news.nankai.edu.cn/ywsd/system/2022/10/12/030053111.shtml), and [eng.ox.ac.uk](https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies).
-- The **first** deep learning method is proposed for predicting **cross-reactive antibodies**.
+- The **first** deep learning method is proposed for predicting **cross-reactive antibodies**, using <a href="/#acnn_rf">ACNN</a> structure for feature extraction.
 
 <ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
 	<li>a. The features of the amino acid sequences of VH, VL and RBD sequences were extracted, localized and max-pooled to be concatenated together as input to the fully connected layers. 

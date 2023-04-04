@@ -2,7 +2,7 @@
 ### Co-organizer:
 <ul style="line-height: 120%">
 <li> the 26th Annual Conference of the Chinese Life Scientist Society in the UK (promoted by <a href="https://mp.weixin.qq.com/s/8d-RoazDrkko_1zUZUOuqg">CLSS-UK</a>)</li>
-<li> the 28th-43th Oxford Life Science Association Monthly Seminar (former name: OCLSS Seminar, promoted via <a href="https://twitter.com/OxfordLifeSci">twitter</a> and <a href="https://www.facebook.com/OxLifeSci">facebook</a>)</li>
+<li> the 28th-43th <a href="http://www.olsa.life/">Oxford Life Science Association</a> Monthly Seminar (former name: OCLSS Seminar, promoted via <a href="https://twitter.com/OxfordLifeSci">twitter</a> and <a href="https://www.facebook.com/OxLifeSci">facebook</a>)</li>
 </ul>
 
 ### Journal Reviewer:

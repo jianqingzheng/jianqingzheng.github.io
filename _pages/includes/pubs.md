@@ -64,7 +64,7 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 
 - [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA40945.2020.9197328-darkyellow)](https://doi.org/10.1109/ICRA40945.2020.9197328) \| [![arXiv](https://img.shields.io/badge/arXiv-1901.09203-b31b1b.svg)](https://arxiv.org/abs/1901.09203) \| [![](https://img.shields.io/github/stars/XiaoYunZhou27/ACNN?style=social&label=Code+Stars)](https://github.com/XiaoYunZhou27/ACNN)
 
-- A **pooling-free structure** is proposed to achieve **full-resolution** feature processing using a **theoretically optimal dilation setting** for a larger receptive field, achieving a higher accuracy with even fewer parameters.
+- A **pooling-free network structure** is proposed to achieve **full-resolution** feature processing using a **theoretically optimal dilation setting** for a larger receptive field, which achieves a **higher accuracy** even with **fewer parameters**.
 
 <ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
 	<li>- The left figure shows the receptive field with the dilation setting (1,2,5...) used for DeepLab.</li>

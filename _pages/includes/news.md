@@ -1,6 +1,6 @@
 # <i class="fas fa-rss "></i> News
 
-<ul style="width: auto; height: 150px; overflow: auto; background-color: #F7F7F7">
+<ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
 	<li>[2023.01]: One journal paper is accepted by <i>Computerized Medical Image and Graphics</i> (IF:7.4).
 	</li>
 	<li>[2022.11]: 🎉 Our <a href="/#c-computational-biology-and-bioinformatics">collaborative research</a> is reported by <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a> and in the <a href="https://www.linkedin.com/posts/engineering-science-university-of-oxford_nearly-two-and-a-half-years-into-the-covid-activity-6996775726351818752-AjOr">LinkedIn</a>!

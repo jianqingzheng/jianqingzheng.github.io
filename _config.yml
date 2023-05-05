@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jian-Qing Zheng<br />(郑健青)"
+  name             : "Jian-Qing Zheng"
   avatar           : "images/myself.jpg"
   bio              : "DPhil student @ University of Oxford"
   location         : "Oxford, UK"

@@ -19,6 +19,7 @@
 
 <br />
 <br />
+<br />
 <div style="text-align: center">
 <img src='images/flowers/happy_birthday.gif' alt="sym" width="45%">
 <br/>
@@ -30,6 +31,6 @@
 
 
 <br />
-These figures are come from <a href="https://www.behance.net/gallery/58060483/Happy-Birthday-Gif/modules/341714061" /> or created from the code provided by <b><a href="https://www.zhihu.com/question/43309577/answer/2703435291"> slandarer</a> </b>
+These figures come from <a href="https://www.behance.net/gallery/58060483/Happy-Birthday-Gif/modules/341714061" /> or are created from the code provided by <b><a href="https://www.zhihu.com/question/43309577/answer/2703435291"> slandarer</a> </b>
 <br />
 <br />

@@ -23,9 +23,9 @@
 <div style="text-align: center">
 <img src='images/flowers/happy_birthday.gif' alt="sym" width="45%">
 <br/>
-<img src='images/flowers/flower0.gif' alt="sym" width="15%">
-<img src='images/flowers/flower1.gif' alt="sym" width="15%">
-<img src='images/flowers/flower4.gif' alt="sym" width="15%">
+<img src='images/flowers/flower0.gif' alt="sym" width="30%">
+<img src='images/flowers/flower1.gif' alt="sym" width="30%">
+<img src='images/flowers/flower4.gif' alt="sym" width="30%">
 </div>
 
 

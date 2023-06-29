@@ -19,6 +19,11 @@
 
 <br />
 <br />
+Oh you found it :)
+<br />
+<br />
+<br />
+<br />
 Dear BW,
 <br />
 <div style="text-align: center">
@@ -34,7 +39,7 @@ Dear BW,
 <br />
 <p style="text-align: right">
 <small> 
-These figures come from <a href="https://www.behance.net/gallery/58060483/Happy-Birthday-Gif/modules/341714061">behance.net</a> or are created by the code from <b><a href="https://www.zhihu.com/question/43309577/answer/2703435291"> slandarer</a> </b>.
+These figures are from <a href="https://www.behance.net/gallery/58060483/Happy-Birthday-Gif/modules/341714061">behance.net</a> or created by the code from <b><a href="https://www.zhihu.com/question/43309577/answer/2703435291"> slandarer</a> </b>.
 </small>
 </p>
 <br />

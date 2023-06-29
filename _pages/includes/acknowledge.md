@@ -24,7 +24,7 @@ Oh you found it :)
 <br />
 <br />
 <br />
-<huge>Dear BW, </huge>
+<big>Dear BW, </big>
 <br />
 <div style="text-align: center">
 <img src='images/flowers/happy_birthday.gif' alt="sym" width="45%">

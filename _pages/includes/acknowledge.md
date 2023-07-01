@@ -16,32 +16,3 @@
 <p style="text-align: right">
 <small> Thank Mr. Yi Ren for sharing the <a href="https://github.com/RayeRen/acad-homepage.github.io">source code</a> of the website template. </small>
 </p>
-
-<br />
-<br />
-Oh you found it :)
-<br />
-<br />
-<br />
-<br />
-<big>Dear BW, </big>
-<br />
-<div style="text-align: center">
-<img src='images/flowers/happy_birthday.gif' alt="sym" width="45%">
-<br/>
-<img src='images/flowers/flower0.gif' alt="sym" width="30%">
-<img src='images/flowers/flower1.gif' alt="sym" width="30%">
-<img src='images/flowers/flower4.gif' alt="sym" width="30%">
-</div>
-
-
-<br />
-<br />
-<br />
-<p style="text-align: right">
-<small> 
-These figures are from <a href="https://www.behance.net/gallery/58060483/Happy-Birthday-Gif/modules/341714061">behance.net</a> or created by the code from <b><a href="https://www.zhihu.com/question/43309577/answer/2703435291"> slandarer</a> </b>.
-</small>
-</p>
-<br />
-<br />

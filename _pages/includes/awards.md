@@ -1,5 +1,5 @@
 # <i class="fas fa-trophy"></i> Honors & Awards
-<div class="logo-text" style="list-style-type:disc;text-align:justify">
+<div style="list-style-type:disc">
 <ul>
 <li>
 <div class="hfill_container">

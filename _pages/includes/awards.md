@@ -3,7 +3,7 @@
 <ul>
 <li>
 <div class="hfill_container">
-<span style="text-align:left"><b><a href='https://blogs.some.ox.ac.uk/mcr/who-we-are/docs/'>Barbara Craig Grant</a></b>, holder,</span> <span style="text-align:right"><i>Somerville College, University of Oxford</i>, 2021</span>
+<p style="text-align:left"><b><a href='https://blogs.some.ox.ac.uk/mcr/who-we-are/docs/'>Barbara Craig Grant</a></b>, holder,</p> <p style="text-align:right"><i>Somerville College, University of Oxford</i>, 2021</p>
 </div>
 </li>
 <li>

@@ -93,16 +93,16 @@
 .galery-logo a{text-align:justify; line-height: 0; text-decoration: none; }
 .galery-logo a img{padding:0; margin:8px;}
 
-//.hfill_container {
-//  display: flex;
-//  justify-content: space-between;
-//}
 .hfill_container {
   display: flex;
+  justify-content: space-between;
 }
-.hfill_container p:first-child {
-  margin-right: auto;
-}
+//.hfill_container {
+//  display: flex;
+//}
+//.hfill_container p:first-child {
+//  margin-right: auto;
+//}
 
 .logo-box {
     display: flex;

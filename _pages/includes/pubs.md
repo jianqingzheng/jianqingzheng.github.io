@@ -123,7 +123,7 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 <div class='paper-box-text' markdown="1">
 [Deep learning-based rapid generation of broadly reactive antibodies against SARS-CoV-2 and its Omicron variant](https://www.nature.com/articles/s41422-022-00727-6)
 
-[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow)](https://www.nature.com/articles/s41422-022-00727-6) \| [![](https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★)](https://github.com/jianqingzheng/XBCR-net)
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow)](https://www.nature.com/articles/s41422-022-00727-6) \| [![](https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★)](https://github.com/jianqingzheng/XBCR-net) \| [![Explore XBCR-net in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jianqingzheng/XBCR-net/blob/main/XBCR_net.ipynb)
 
 H. Lou†, **J. Q. Zheng†**, X. Fang, Z. Liang, M. Zhang, Y. Chen, C. Wang, and X. Cao. 
 

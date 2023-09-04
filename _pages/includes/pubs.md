@@ -11,9 +11,10 @@
 <div class='paper-box-text' markdown="1">
 [Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://arxiv.org/abs/2203.04290)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg)](https://arxiv.org/abs/2203.04290) \| [![](https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★)](https://github.com/jianqingzheng/res_aligner_net)
+
 **J. Q. Zheng**, Z. Wang, B. Huang, N. H. Lim, B. W. Papiez
 
-- [![arXiv](https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg)](https://arxiv.org/abs/2203.04290) \| [![](https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★)](https://github.com/jianqingzheng/res_aligner_net)
 - This is the **first quantitative investigation** of deep learning methods for **discontinuous deformable registration**.
 
 <ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
@@ -60,9 +61,9 @@
 <div class='paper-box-text' markdown="1">
 [ACNN: a Full Resolution DCNN for Medical Image Segmentation](https://doi.org/10.1109/ICRA40945.2020.9197328)
 
-X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA40945.2020.9197328-darkyellow)](https://doi.org/10.1109/ICRA40945.2020.9197328) \| [![arXiv](https://img.shields.io/badge/arXiv-1901.09203-b31b1b.svg)](https://arxiv.org/abs/1901.09203) \| [![](https://img.shields.io/github/stars/XiaoYunZhou27/ACNN?style=social&label=Code+★)](https://github.com/XiaoYunZhou27/ACNN)
 
-- [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA40945.2020.9197328-darkyellow)](https://doi.org/10.1109/ICRA40945.2020.9197328) \| [![arXiv](https://img.shields.io/badge/arXiv-1901.09203-b31b1b.svg)](https://arxiv.org/abs/1901.09203) \| [![](https://img.shields.io/github/stars/XiaoYunZhou27/ACNN?style=social&label=Code+★)](https://github.com/XiaoYunZhou27/ACNN)
+X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 
 - A **pooling-free network structure** is proposed to achieve **full-resolution** feature processing using a **theoretically optimal dilation setting** for a larger receptive field, which achieves a **higher accuracy** even with **fewer parameters**.
 
@@ -83,11 +84,12 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 <div class='paper-box-text' markdown="1">
 [Towards 3D Path Planning from a Single 2D Fluoroscopic Image for Fenestrated Endovascular Aortic Repair](https://ieeexplore.ieee.org/abstract/document/8793918)
 
-**J. Q. Zheng**, X. Y. Zhou, C. Riga, G. Z. Yang
-
-- [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA.2019.8793918-darkyellow)](https://ieeexplore.ieee.org/abstract/document/8793918/)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA.2019.8793918-darkyellow)](https://ieeexplore.ieee.org/abstract/document/8793918/)
 \| [![arXiv](https://img.shields.io/badge/arXiv-1809.05955-b31b1b.svg)](https://arxiv.org/abs/1809.05955)
 \| [![](https://img.shields.io/github/stars/jianqingzheng/path_planning_for_FEVAR?style=social&label=Code+★)](https://github.com/jianqingzheng/path_planning_for_FEVAR)
+
+**J. Q. Zheng**, X. Y. Zhou, C. Riga, G. Z. Yang
+
 - The first **real-time framework** of 3D intra-operative AAA skeleton instantiation from a single 2D AAA fluoroscopic image is proposed for **3D robotic path planning**, achieving **sub-pixel error** in the clinical data.
 
 <ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
@@ -103,12 +105,12 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 <div class='paper-box-text' markdown="1">
 [Self-Supervised Depth Estimation in Laparoscopic Image using 3D Geometric Consistency](https://doi.org/10.1007/978-3-031-16449-1_2)
 
-B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S. Giannarou, D. S. Elson
-
-- [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--16449--1__2-darkyellow)](https://doi.org/10.1007/978-3-031-16449-1_2)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--16449--1__2-darkyellow)](https://doi.org/10.1007/978-3-031-16449-1_2)
 \| [![arXiv](https://img.shields.io/badge/arXiv-2208.08407-b31b1b.svg)](https://arxiv.org/abs/2208.08407)
 \| [![](https://img.shields.io/github/stars/br0202/M3Depth?style=social&label=Technique Code+★)](https://github.com/br0202/M3Depth)
 \| [![](https://img.shields.io/github/stars/br0202/SL-Decoder?style=social&label=Data+★)](https://github.com/br0202/SL-Decoder)
+
+B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S. Giannarou, D. S. Elson
 
 </div>
 </div>
@@ -121,9 +123,10 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 <div class='paper-box-text' markdown="1">
 [Deep learning-based rapid generation of broadly reactive antibodies against SARS-CoV-2 and its Omicron variant](https://www.nature.com/articles/s41422-022-00727-6)
 
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow)](https://www.nature.com/articles/s41422-022-00727-6) \| [![](https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★)](https://github.com/jianqingzheng/XBCR-net)
+
 H. Lou†, **J. Q. Zheng†**, X. Fang, Z. Liang, M. Zhang, Y. Chen, C. Wang, and X. Cao. 
 
-- [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow)](https://www.nature.com/articles/s41422-022-00727-6) \| [![](https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★)](https://github.com/jianqingzheng/XBCR-net)
 - This work is translated and reported by media [iNature](https://mp.weixin.qq.com/s/fDeRXs8Cq0L_LzYvZlI1iA), [南开新闻 (news.nankai.edu.cn)](http://news.nankai.edu.cn/ywsd/system/2022/10/12/030053111.shtml), and [eng.ox.ac.uk](https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies).
 - The **first** deep learning method is proposed for predicting **cross-reactive antibodies**, using <a href="/#acnn_rf">ACNN</a> structure for feature extraction.
 

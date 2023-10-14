@@ -16,10 +16,12 @@
 				content: attr(data-date) " : ";
 				font-weight: bold;
 				display: inline-block;
+				width: 100px;
 			}
 		}
 	</style>
 </head>
+
 <body>
 	<ul class="events">
 		<li data-date="2023/10">One journal paper is accepted by <i>Computerized Medical Imaging and Graphics</i> (IF:7.4).</li>
@@ -27,6 +29,7 @@
 		<li data-date="2023-10-25">🎉 Our <a href="/#c-computational-biology-and-bioinformatics">collaborative research</a> is translated and reported by media <a href="https://mp.weixin.qq.com/s/fDeRXs8Cq0L_LzYvZlI1iA">iNature</a> and <a href="http://news.nankai.edu.cn/ywsd/system/2022/10/12/030053111.shtml">南开新闻 (news.nankai.edu.cn)</a>!</li>
 	</ul>
 </body>
+
 
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
 	<li>[2023.01]: One journal paper is accepted by <i>Computerized Medical Imaging and Graphics</i> (IF:7.4).

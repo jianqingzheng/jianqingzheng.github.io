@@ -9,15 +9,15 @@
 			height: 180px; 
 			overflow: auto; 
 			background-color: #F7F7F7;
-			li {
-				font-weight: bold;
-			}
-			li:before {
-				content: attr(data-date) " : ";
-				font-weight: bold;
-				display: inline-block;
-				width: 100px;
-			}
+		}
+		.li {
+			font-weight: bold;
+		}
+		.li:before {
+			content: attr(data-date) " : ";
+			font-weight: bold;
+			display: inline-block;
+			width: 100px;
 		}
 	</style>
 </head>

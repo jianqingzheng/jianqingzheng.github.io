@@ -18,7 +18,7 @@
 			padding-left: 80px;
 		}
 		ul.events li:before {
-			content: attr(data-date) " : ";
+			content: attr(data-date) ": ";
 			font-weight: bold;
 			position: absolute;
 			left: 0px;

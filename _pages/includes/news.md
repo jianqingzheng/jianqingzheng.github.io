@@ -15,12 +15,12 @@
 			font-weight: normal;
 			align-items: left;
 			position: relative;
-			padding-left: 65px;
+			padding-left: 68px;
 		}
 		ul.events li:before {
 			content: attr(data-date) ": ";
 			font-weight: normal;
-			color: #030707;
+			color: #131717;
 			position: absolute;
 			left: 0px;
 		}

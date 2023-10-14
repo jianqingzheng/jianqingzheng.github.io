@@ -1,5 +1,27 @@
 # <i class="fas fa-rss "></i> News
 
+<head>
+	<title>Events</title>
+	<style>
+		ul {
+			list-style-type: none;
+			padding: 0;
+			margin: 0;
+		}
+		li:before {
+			content: attr(data-date) " / ";
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
+		<li data-date="2023/10">One journal paper is accepted by <i>Computerized Medical Imaging and Graphics</i> (IF:7.4).</li>
+		<li data-date="2022/11">🎉 Our <a href="/#c-computational-biology-and-bioinformatics">collaborative research</a> is reported by <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a> and in the <a href="https://www.linkedin.com/posts/engineering-science-university-of-oxford_nearly-two-and-a-half-years-into-the-covid-activity-6996775726351818752-AjOr">LinkedIn</a>!</li>
+		<li data-date="2023-10-25">🎉 Our <a href="/#c-computational-biology-and-bioinformatics">collaborative research</a> is translated and reported by media <a href="https://mp.weixin.qq.com/s/fDeRXs8Cq0L_LzYvZlI1iA">iNature</a> and <a href="http://news.nankai.edu.cn/ywsd/system/2022/10/12/030053111.shtml">南开新闻 (news.nankai.edu.cn)</a>!</li>
+	</ul>
+</body>
+
 <ul style="width: auto; height: 180px; overflow: auto; background-color: #F7F7F7">
 	<li>[2023.01]: One journal paper is accepted by <i>Computerized Medical Imaging and Graphics</i> (IF:7.4).
 	</li>

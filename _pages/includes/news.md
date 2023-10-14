@@ -10,10 +10,7 @@
 			overflow: auto; 
 			background-color: #F7F7F7;
 		}
-		.li {
-			font-weight: bold;
-		}
-		.li:before {
+		ul.events.li:before {
 			content: attr(data-date) " : ";
 			font-weight: bold;
 			display: inline-block;

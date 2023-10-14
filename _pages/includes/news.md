@@ -12,11 +12,14 @@
 		}
 		ul.events li {
 			font-weight: normal;
-			display:flex;
+			align-items: left;
+			position: relative;
+			padding-left: 20px;
 		}
 		ul.events li:before {
 			content: attr(data-date) " : ";
 			font-weight: bold;
+			position: absolute;
 			width: 100px;
 		}
 	</style>

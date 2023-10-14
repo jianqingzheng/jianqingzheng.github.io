@@ -7,7 +7,7 @@
 			list-style-type: none;
 			width: auto; 
 			padding: 10px;
-			height: 180px; 
+			height: 200px; 
 			overflow: auto; 
 			background-color: #F7F7F7;
 		}

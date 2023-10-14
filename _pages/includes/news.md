@@ -10,10 +10,13 @@
 			overflow: auto; 
 			background-color: #F7F7F7;
 		}
+		ul.events li {
+			font-weight: normal;
+			display:flex;
+		}
 		ul.events li:before {
 			content: attr(data-date) " : ";
 			font-weight: bold;
-			display: inline-block;
 			width: 100px;
 		}
 	</style>

@@ -20,7 +20,7 @@
 		ul.events li:before {
 			content: attr(data-date) "";
 			font-weight: normal;
-			color: #383838;
+			color: #505858;
 			position: absolute;
 			left: 0px;
 		}

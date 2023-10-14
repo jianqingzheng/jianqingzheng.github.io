@@ -11,11 +11,12 @@
 			height: 180px; 
 			overflow: auto; 
 			background-color: #F7F7F7;
-		}
-		li:before {
-			content: attr(data-date) " : ";
-			font-weight: bold;
-			display: inline-block;
+	
+			li:before {
+				content: attr(data-date) " : ";
+				font-weight: bold;
+				display: inline-block;
+			}
 		}
 	</style>
 </head>

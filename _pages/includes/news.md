@@ -14,13 +14,13 @@
 			font-weight: normal;
 			align-items: left;
 			position: relative;
-			padding-left: 20px;
+			padding-left: 100px;
 		}
 		ul.events li:before {
 			content: attr(data-date) " : ";
 			font-weight: bold;
 			position: absolute;
-			width: 100px;
+			left: 5px;
 		}
 	</style>
 </head>

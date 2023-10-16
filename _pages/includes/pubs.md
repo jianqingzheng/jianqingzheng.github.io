@@ -17,13 +17,15 @@
 
 - This is the **first quantitative investigation** of deep learning methods for **discontinuous deformable registration**.
 
-<ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
+<div class="small-box">
+<ul>
 	<li>- The proposed RAN obtains the state-of-the-art accuracy and better efficiency. </li>
 	<li>- Motion separability quantifies upper limit of the predictable motions' difference. </li>
 	<li>- Motion-Separable structure is used for a higher motion separability. </li>
 	<li>- Multi-head mask is used to disentangle the motions of different organs.</li>
 	<li>- Confidence weight is estimated to the weight and refine the predicted motions. </li>
 </ul>
+</div>
 </div>
 </div>
 
@@ -44,13 +46,15 @@
 
 - It is the **earliest work** that applies the **attention mechanism** to **image registration**, enabling **sub-voxel errors** even from an arbitrary initial orientation.
 
-<ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
+<div class="small-box">
+<ul>
 	<li>- Alignment of arbitrary oriented CT volumes allows extraction of contrasted cartilage.</li>
 	<li>- Only proposed D-net achieved accurate alignment of arbitrary oriented volumes.</li>
 	<li>- D-net extracts the common features and the spatial information via Siamese structure.</li>
 	<li>- Mutual attention enhances long-range connection between two-branch D-net structure.</li>
 	<li>- The alignment framework may be generalizable for multiple longitudinal studies.</li>
 </ul>
+</div>
 </div>
 </div>
 
@@ -94,10 +98,12 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 
 - The first **real-time framework** of 3D intra-operative AAA skeleton instantiation from a single 2D AAA fluoroscopic image is proposed for **3D robotic path planning**, achieving **sub-pixel error** in the clinical data.
 
-<ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
+<div class="small-box">
+<ul>
 	<li> - Left: the 3D abdominal aortic center line recovered from one 2D X-ray image. </li>
 	<li> - Right: how it looks like when a catheter moves along the recovered center line of aorta.</li>
 </ul>
+</div>
 </div>
 </div>
 
@@ -132,7 +138,8 @@ H. Lou†, **J. Q. Zheng†**, X. Fang, Z. Liang, M. Zhang, Y. Chen, C. Wang, an
 - This work is translated and reported by media [iNature](https://mp.weixin.qq.com/s/fDeRXs8Cq0L_LzYvZlI1iA), [南开新闻 (news.nankai.edu.cn)](http://news.nankai.edu.cn/ywsd/system/2022/10/12/030053111.shtml), and [eng.ox.ac.uk](https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies).
 - The **first** deep learning method is proposed for predicting **cross-reactive antibodies**, using <a href="/#acnn_rf">ACNN</a> structure for feature extraction.
 
-<ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
+<div class="small-box">
+<ul>
 	<li>a. The features of the amino acid sequences of VH, VL and RBD sequences were extracted, localized and max-pooled to be concatenated together as input to the fully connected layers. 
 	The active features in the latent space were then processed by Multi-Layer Perceptron to predict the binding probability of antibody to multiple antigens. 
 	The impact score of VH, VL and RBD is calculated on the local histogram impact score map, representing how much weight is given to the specified amino acids on VH, VL (y axis) and RBD (x axis). 
@@ -157,6 +164,7 @@ H. Lou†, **J. Q. Zheng†**, X. Fang, Z. Liang, M. Zhang, Y. Chen, C. Wang, an
 	<li>h. The HCDR3 sequence frequency of the dominant cluster (encoded by IGHV3-30 and IGKV1-13) of the pan-SARS group is shown.
 	</li>
 </ul>
+</div>
 </div>
 </div>
 

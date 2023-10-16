@@ -77,7 +77,8 @@
             margin-bottom: 3px;
             ul {
                 width: auto;
-                height: 120px;
+                //height: 120px;
+                max-height: 180px;
                 overflow: auto;
                 padding:0.4em;
                 margin:0em;

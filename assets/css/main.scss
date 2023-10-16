@@ -48,7 +48,7 @@
     flex-wrap: wrap;
     //border-bottom: 1px #efefef solid;
     //border: 1px #afafaf solid;
-    box-shadow: 2px -2px 4px 1px #888;
+    box-shadow: 2px -2px 3px 1px #888;
     background-color: #F7F9F9;
     padding:0.7em;
     text-align:left;
@@ -63,7 +63,7 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 2px -2px 3px 1px #888;
+            box-shadow: 2px -2px 2px 1px #888;
             object-fit: cover;
         }
     }
@@ -72,7 +72,7 @@
         max-width: 100%;
         order: 1;
         .small-box{
-            box-shadow: inset -1px 1px 2px 1px #888;
+            box-shadow: inset -1px 1px 2px 0px #888;
             background-color: #FFFFFF;
             ul {
                 width: auto;

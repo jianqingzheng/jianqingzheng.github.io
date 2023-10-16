@@ -47,7 +47,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     //border-bottom: 1px #efefef solid;
-    border: 1px #afafaf solid;
+    //border: 1px #afafaf solid;
+    box-shadow: 2px -2px 4px 0px #888;
     background-color: #F7F9F9;
     padding:0.7em;
     text-align:left;
@@ -70,6 +71,19 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        .small-box{
+            box-shadow: 2px -2px 4px -4px #888;
+            ul {
+                width: auto;
+                height: 120px;
+                overflow: auto;
+                padding:0.4em;
+                margin:0em;
+                text-align:justify;
+                font-size:small;
+                background-color: #FFFFFF
+            }
+        }
     }
 
     @include breakpoint($medium) {

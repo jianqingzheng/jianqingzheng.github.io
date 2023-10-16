@@ -67,11 +67,13 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 
 - A **pooling-free network structure** is proposed to achieve **full-resolution** feature processing using a **theoretically optimal dilation setting** for a larger receptive field, which achieves a **higher accuracy** even with **fewer parameters**.
 
-<ul style="width: auto; height: 120px; overflow: auto; padding:0.4em; margin:0em; text-align:justify; font-size:small; background-color: #FFFFFF">
+<div class="small-box">
+<ul>
 	<li>- The left figure shows the receptive field with the dilation setting (1,2,5...) used for DeepLab.</li>
 	<li>- The right figure shows the receptive field with the dilation setting (1,3,9...) used for our ACNN.</li>
 	<li>- Our setting achieves larger receptive field with the same number of layers.</li>
 </ul>
+</div>
 </div>
 </div>
 

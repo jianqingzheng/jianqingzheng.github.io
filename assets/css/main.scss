@@ -72,8 +72,9 @@
         max-width: 100%;
         order: 1;
         .small-box{
-            box-shadow: inset 1.5px -1.5px 4px -0.5px #888;
+            box-shadow: inset 1.5px -1.5px 4px 0px #888;
             background-color: #FFFFFF;
+            margin-bottom: 3px;
             ul {
                 width: auto;
                 height: 120px;
@@ -97,7 +98,7 @@
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            margin-bottom: 3px;
+            //margin-bottom: 3px;
             max-width: 60%;
             order: 2;
         }

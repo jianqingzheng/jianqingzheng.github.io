@@ -3,13 +3,16 @@
 <head>
 	<title>Events</title>
 	<style>
+		.bottom_box {
+			background-color: #F7F7F7;
+			box-shadow: inset 0px 0px 3px 0px #777;
+		}
 		ul.events {
 			list-style-type: none;
 			width: auto; 
 			padding: 10px;
 			height: 200px; 
 			overflow: auto; 
-			background-color: #F7F7F7;
 		}
 		ul.events li {
 			font-weight: normal;
@@ -28,6 +31,7 @@
 </head>
 
 <body>
+<div class="bottom_box">
 	<ul class="events">
 		<li data-date="[2023/01]">: One journal paper is accepted by <i>Computerized Medical Imaging and Graphics</i> (IF:7.4).</li>
 		<li data-date="[2022/11]">: 🎉 Our <a href="/#c-computational-biology-and-bioinformatics">collaborative research</a> is reported by <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a> and in the <a href="https://www.linkedin.com/posts/engineering-science-university-of-oxford_nearly-two-and-a-half-years-into-the-covid-activity-6996775726351818752-AjOr">LinkedIn</a>!</li>
@@ -38,4 +42,5 @@
 		<li data-date="[2022/05]">: Two conference papers are accepted by <i>MIUA 2022</i>, one oral presentation and one poster session.</li>
 
 	</ul>
+</div>
 </body>

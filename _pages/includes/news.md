@@ -4,7 +4,7 @@
 	<title>Events</title>
 	<style>
 		.bottom_box {
-			background-color: #F7F7F7;
+			background-color: #F8F8F8;
 			box-shadow: inset 0px 0px 5px -0.5px #888;
 		}
 		ul.events {

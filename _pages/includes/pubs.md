@@ -11,6 +11,7 @@
 <div class='paper-box-text' markdown="1">
 [Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://arxiv.org/abs/2203.04290)
 
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow)](https://doi.org/10.1016/j.media.2023.103038) \|
 [![arXiv](https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg)](https://arxiv.org/abs/2203.04290) \| [![](https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★)](https://github.com/jianqingzheng/res_aligner_net)
 
 **J. Q. Zheng**, Z. Wang, B. Huang, N. H. Lim, B. W. Papiez

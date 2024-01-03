@@ -7,16 +7,16 @@
 
 ### Journal Reviewer:
 <ul style="line-height: 120%">
-<li> Computer Methods and Programs in Biomedicine (CMPB), <div style="float:right;">Elsevier</div></li>
-<li> IEEE Transaction on Robotics (T-RO), <div style="float:right;">IEEE</div></li>
-<li> IEEE Robotics and Automation Letters (RA-L), <div style="float:right;">IEEE</div></li>
-<li> IEEE Signal Processing Letters (SPL), <div style="float:right;">IEEE</div></li>
+<li> Computer Methods and Programs in Biomedicine (CMPB), Elsevier</li>
+<li> IEEE Transaction on Robotics (T-RO)</li>
+<li> IEEE Robotics and Automation Letters (RA-L)</li>
+<li> IEEE Signal Processing Letters (SPL)</li>
 </ul>
 
 ### Conference Reviewer:
 <ul style="line-height: 120%">
-<li> International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021, <div style="float:right;">Springer</div></li>
-<li> European Conference on Computer Vision (ECCV) 2022, <div style="float:right;">Springer</div></li>
-<li> IEEE International Conference on Robotic and Automation (ICRA) 2019, <div style="float:right;">IEEE</div></li>
+<li> International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021, Springer</li>
+<li> European Conference on Computer Vision (ECCV) 2022, Springer</li>
+<li> IEEE International Conference on Robotic and Automation (ICRA) 2019</li>
 <li> UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2019</li>
 </ul>

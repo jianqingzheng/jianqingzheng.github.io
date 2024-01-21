@@ -106,8 +106,8 @@ $(document).ready(function(){
 
   // Your additional code
     var content = document.getElementById("content");
-    function onTileClick() {
+    window.onTileClick = function() {
         content.style.height = content.offsetHeight === 450 ? 0 + 'px' : 450 + 'px';
-    }
+    };
 
 });

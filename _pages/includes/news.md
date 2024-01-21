@@ -19,6 +19,7 @@
 			align-items: left;
 			position: relative;
 			padding-left: 68px;
+			z-index: 0;
 		}
 		ul.events li:before {
 			content: attr(data-date) "";

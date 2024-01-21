@@ -31,7 +31,7 @@
 </head>
 
 <body>
-<div class="bottom_box">
+<div class="bottom_box" style="position: absolute; z-index: 0;">
 	<ul class="events">
 		<li data-date="[2023/11]">: One journal paper is accepted by <i>Medical Image Analysis</i> (IF:13.8).</li>
 		<li data-date="[2023/01]">: One journal paper is accepted by <i>Computerized Medical Imaging and Graphics</i> (IF:7.4).</li>

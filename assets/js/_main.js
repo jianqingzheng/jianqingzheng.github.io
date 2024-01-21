@@ -105,8 +105,9 @@ $(document).ready(function(){
   });
 
   // Your additional code
-    var fold_content = document.getElementById("fold_content");
+  //   var fold_content = document.getElementById("fold_content");
     window.onTileClick = function() {
+        var fold_content = document.getElementById("fold_content");
         fold_content.style.height = fold_content.offsetHeight === 450 ? 0 + 'px' : 450 + 'px';
     };
 

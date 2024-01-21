@@ -24,7 +24,8 @@
 <script type="text/javascript">
   function onTileClick() {
         var fold_content = document.getElementById("fold_content");
-        fold_content.style.height = fold_content.offsetHeight === 0 ? 450 + 'px' : 600 + 'px';
+        // fold_content.style.height = fold_content.offsetHeight === 450 ? 0 + 'px' : 600 + 'px';
+        fold_content.style.height = fold_content.offsetHeight === 0 ? '450px' : '0';
   }
 </script>
 

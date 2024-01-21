@@ -2,14 +2,14 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
-function onTitleClick() {
-    var content = document.getElementById("content");
-    if (content.style.height === "450px") {
-        content.style.height = "0";
-    } else {
-        content.style.height = "450px";
-    }
-}
+// function onTitleClick() {
+//     var content = document.getElementById("content");
+//     if (content.style.height === "450px") {
+//         content.style.height = "0";
+//     } else {
+//         content.style.height = "450px";
+//     }
+// }
 
 $(document).ready(function(){
    // Sticky footer
@@ -103,5 +103,11 @@ $(document).ready(function(){
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
+
+  // Your additional code
+    var content = document.getElementById("content");
+    function onTileClick() {
+        content.style.height = content.offsetHeight === 450 ? 0 + 'px' : 450 + 'px';
+    }
 
 });

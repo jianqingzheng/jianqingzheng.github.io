@@ -105,9 +105,9 @@ $(document).ready(function(){
   });
 
   // Your additional code
-    var content = document.getElementById("content");
+    var fold_content = document.getElementById("content");
     window.onTileClick = function() {
-        content.style.height = content.offsetHeight === 450 ? 0 + 'px' : 450 + 'px';
+        fold_content.style.height = fold_content.offsetHeight === 450 ? 0 + 'px' : 450 + 'px';
     };
 
 });

@@ -2,6 +2,15 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
+function onTitleClick() {
+    var content = document.getElementById("content");
+    if (content.style.height === "450px") {
+        content.style.height = "0";
+    } else {
+        content.style.height = "450px";
+    }
+}
+
 $(document).ready(function(){
    // Sticky footer
   var bumpIt = function() {

@@ -41,7 +41,6 @@
 		<li data-date="[2022/07]">: A 20-min oral presentation entitled <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_6">"Recursive Deformable Image Registration Network with Mutual Attention"</a> is given at MIUA 2022 in Cambridge.</li>
 		<li data-date="[2022/06]">: One conference paper is accepted by <i>MICCAI 2022</i>.</li>
 		<li data-date="[2022/05]">: Two conference papers are accepted by <i>MIUA 2022</i>, one oral presentation and one poster session.</li>
-
 	</ul>
 </div>
 </body>

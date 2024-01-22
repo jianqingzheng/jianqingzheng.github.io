@@ -17,7 +17,7 @@
 		ul.events li {
 			font-weight: normal;
 			align-items: left;
-			position: absolute;
+			position: relative;
 			padding-left: 68px;
 		}
 		ul.events li:before {

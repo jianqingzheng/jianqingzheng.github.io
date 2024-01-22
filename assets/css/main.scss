@@ -216,9 +216,9 @@ h1:before, .anchor:before {
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
-    //position: absolute;
-    position: fixed;
-    z-index: 10;
+    position: absolute;
+    //position: fixed;
+    //z-index: 10;
     margin-top: .5em;
     margin-left: -.5em;
     color: white;

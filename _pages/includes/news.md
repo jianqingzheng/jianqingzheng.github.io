@@ -20,6 +20,7 @@
 			align-items: left;
 			position: relative;
 			padding-left: 68px;
+			z-index: 0;
 		}
 		ul.events li:before {
 			content: attr(data-date) "";
@@ -27,6 +28,7 @@
 			color: #809898;
 			position: absolute;
 			left: 0px;
+			z-index: 0;
 		}
 	</style>
 </head>

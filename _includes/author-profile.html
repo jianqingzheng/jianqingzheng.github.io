@@ -2,13 +2,13 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<div itemscope itemtype="http://schema.org/Person" class="profile_box">
+<div itemscope itemtype="http://schema.org/Person" class="profile_box" style="position: relative; z-index: 1">
 
   <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__content" style="position: relative; z-index: 2">
+  <div class="author__content" >
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>

@@ -23,8 +23,10 @@
 <!--        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>-->
         <li>
           <div id="title" onclick="onTileClick()" style="cursor: pointer;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</div>
-          <div id="fold_content" style="width:600px;overflow: hidden;height:0px;background-color: #FFFAB9;transition: height 0.2s; position: absolute; z-index: 2147483647;">
+          <div id="fold_content" style="width:600px;overflow: hidden;height:0px;background-color: #FFFAB9;transition: height 0.2s; position: fixed; z-index: 2147483647;">
+            <div style="position: fixed; z-index: 2147483647">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1234.9720332126362!2d-1.215404161186995!3d51.75234635342176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c165dcf8c543%3A0x12061aa7f5e7a98c!2sOld%20Road%20Campus%20-%20University%20of%20Oxford!5e0!3m2!1sen!2suk!4v1705874356854!5m2!1sen!2suk" width="600" height="450" style="border:2px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
           </div>
         </li>
       {% endif %}

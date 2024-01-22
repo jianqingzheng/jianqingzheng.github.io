@@ -6,7 +6,7 @@
 		.bottom_box {
 			background-color: #F8F8F8;
 			box-shadow: inset 0px 0px 5px -0.5px #888;
-			z-index: 0px;
+			/*z-index: 0px;*/
 		}
 		ul.events {
 			list-style-type: none;
@@ -20,7 +20,7 @@
 			align-items: left;
 			position: relative;
 			padding-left: 68px;
-			z-index: -1;
+			z-index: 0;
 		}
 		ul.events li:before {
 			content: attr(data-date) "";
@@ -28,7 +28,7 @@
 			color: #809898;
 			position: absolute;
 			left: 0px;
-			z-index: -1;
+			z-index: 0;
 		}
 	</style>
 </head>

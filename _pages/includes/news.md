@@ -6,6 +6,7 @@
 		.bottom_box {
 			background-color: #F8F8F8;
 			box-shadow: inset 0px 0px 5px -0.5px #888;
+			z-index: 0px;
 		}
 		ul.events {
 			list-style-type: none;

@@ -13,7 +13,7 @@
 			width: auto; 
 			padding: 10px;
 			height: 200px; 
-			overflow: auto; 
+			overflow: scroll; 
 		}
 		ul.events li {
 			font-weight: normal;

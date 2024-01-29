@@ -16,6 +16,7 @@
 
 **J. Q. Zheng**, Z. Wang, B. Huang, N. H. Lim, B. W. Papiez
 
+- This work is translated and reported in [CSDN博客](https://blog.csdn.net/amusi1994/article/details/135903644).
 - This is the **first quantitative investigation** of deep learning methods for **discontinuous deformable registration**.
 
 <div class="small-box">

@@ -36,6 +36,7 @@
 <body>
 <div class="bottom_box" >
 	<ul class="events">
+		<li data-date="[2024/03]">: <a href="http://www.olsa.life/2024_Symposium/index.html">Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a> will be held on Thursday, 7th March 2024, at Oxford.</li>
 		<li data-date="[2023/11]">: One journal paper is accepted by <i>Medical Image Analysis</i> (IF:13.8).</li>
 		<li data-date="[2023/01]">: One journal paper is accepted by <i>Computerized Medical Imaging and Graphics</i> (IF:7.4).</li>
 		<li data-date="[2022/11]">: 🎉 Our <a href="/#c-computational-biology-and-bioinformatics">collaborative research</a> is reported by <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a> and in the <a href="https://www.linkedin.com/posts/engineering-science-university-of-oxford_nearly-two-and-a-half-years-into-the-covid-activity-6996775726351818752-AjOr">LinkedIn</a>!</li>

@@ -9,10 +9,11 @@
 
 <p style="text-align:justify">
 <i class="fas fa-quote-left fa-2x fa-pull-left fa-border" aria-hidden="true"></i>
-I am a DPhil student at the <a href='https://www.kennedy.ox.ac.uk'>Kennedy institute</a>, University of Oxford, under the supervision of <a href='https://www.kennedy.ox.ac.uk/team/tonia-vincent'>Tonia Vincent (FRCP, Prof)</a>, <a href='https://scholar.google.co.uk/citations?user=jMFx-usAAAAJ'>Ngee Han Lim (PhD)</a> and <a href='https://www.bdi.ox.ac.uk/Team/bartek-papiez'>Bartlomiej W. Papiez (Assoc Prof)</a>. 
+I am a Postdoc scientist at the <a href='https://www.camsoxford.ox.ac.uk'>CAMS Oxford Institute</a>, University of Oxford, under the supervision of <a href='https://www.camsoxford.ox.ac.uk/Team/xuetao-cao'>Prof. Xuetao Cao</a> and <a href='https://www.camsoxford.ox.ac.uk/Team/tao-dong'>Prof. Tao Dong</a>. 
+I was a DPhil student at the <a href='https://www.kennedy.ox.ac.uk'>Kennedy institute</a>, University of Oxford, under the supervision of <a href='https://www.kennedy.ox.ac.uk/team/tonia-vincent'>Prof. Tonia Vincent</a>, <a href='https://scholar.google.co.uk/citations?user=jMFx-usAAAAJ'>Dr. Ngee Han Lim</a> and <a href='https://www.bdi.ox.ac.uk/Team/bartek-papiez'>Prof. Bartlomiej W. Papiez</a>. 
 <br>
-Prior to this, I obtained my MRes degree at the <a href='https://www.imperial.ac.uk/hamlyn-centre'>Hamlyn Center for Robotic Surgery</a>, Imperial College London, under the supervision of <a href='https://imr.sjtu.edu.cn/en/ab_lead/210.html'>Guang-Zhong Yang (CBE, FREng, FIEEE, Prof)</a>, 
-and a BEng degree at University of Liverpool, with my final year project supervised by <a href='https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/lin-jiang/'>Lin Jiang (PhD)</a> and my second year project supervised by <a href='https://gr.xjtu.edu.cn/web/shusenyang'>Shusen Yang (Prof)</a>.
+Prior to this, I obtained my MRes degree at the <a href='https://www.imperial.ac.uk/hamlyn-centre'>Hamlyn Center for Robotic Surgery</a>, Imperial College London, under the supervision of <a href='https://imr.sjtu.edu.cn/en/ab_lead/210.html'>Prof. Guang-Zhong Yang</a>, 
+and a BEng degree at University of Liverpool, with my final year project supervised by <a href='https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/lin-jiang/'>Dr. Lin Jiang</a> and my second year project supervised by <a href='https://gr.xjtu.edu.cn/web/shusenyang'>Prof. Shusen Yang</a>.
 <br>
 My current research interests are in biomedical data analysis and computational biology, with an emphasis on the computational models and machine learning approaches. 
 <i class="fas fa-quote-right fa-2x fa-pull-right fa-border" aria-hidden="true"></i>

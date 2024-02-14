@@ -9,7 +9,6 @@
 
 <p style="text-align:justify">
 <i class="fas fa-quote-left fa-2x fa-pull-left fa-border" aria-hidden="true"></i>
-I am a Postdoc scientist at the <a href='https://www.camsoxford.ox.ac.uk'>CAMS Oxford Institute</a>, University of Oxford, under the supervision of <a href='https://www.camsoxford.ox.ac.uk/Team/xuetao-cao'>Prof. Xuetao Cao</a> and <a href='https://www.camsoxford.ox.ac.uk/Team/tao-dong'>Prof. Tao Dong</a>. 
 I am a DPhil student at the <a href='https://www.kennedy.ox.ac.uk'>Kennedy institute</a>, University of Oxford, under the supervision of <a href='https://www.kennedy.ox.ac.uk/team/tonia-vincent'>Tonia Vincent (FRCP, Prof)</a>, <a href='https://scholar.google.co.uk/citations?user=jMFx-usAAAAJ'>Ngee Han Lim (PhD)</a> and <a href='https://www.bdi.ox.ac.uk/Team/bartek-papiez'>Bartlomiej W. Papiez (Assoc Prof)</a>. 
 <br>
 Prior to this, I obtained my MRes degree at the <a href='https://www.imperial.ac.uk/hamlyn-centre'>Hamlyn Center for Robotic Surgery</a>, Imperial College London, under the supervision of <a href='https://imr.sjtu.edu.cn/en/ab_lead/210.html'>Guang-Zhong Yang (CBE, FREng, FIEEE, Prof)</a>, 

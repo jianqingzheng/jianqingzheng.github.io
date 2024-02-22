@@ -36,6 +36,7 @@
 <body>
 <div class="bottom_box" >
 	<ul class="events">
+		<li data-date="[2024/03]">: One journal paper is accepted by <i>IEEE Trans on Signal Processing</i> (IF:5.4).</li>
 		<li data-date="[2024/03]">: <a href="http://www.olsa.life/2024_Symposium/index.html">Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a> will be held on Thursday, 7th March 2024, at Oxford.</li>
 		<li data-date="[2023/11]">: One journal paper is accepted by <i>Medical Image Analysis</i> (IF:13.8).</li>
 		<li data-date="[2023/01]">: One journal paper is accepted by <i>Computerized Medical Imaging and Graphics</i> (IF:7.4).</li>

@@ -5,6 +5,11 @@
 <li> the 28th-43th <a href="http://www.olsa.life/">Oxford Life Science Association</a> Monthly Seminar (former name: OCLSS Seminar, promoted via <a href="https://twitter.com/OxfordLifeSci">twitter</a> and <a href="https://www.facebook.com/OxLifeSci">facebook</a>)</li>
 </ul>
 
+### Session Chair:
+<ul style="line-height: 120%">
+<li> <a href="http://www.olsa.life/2024_Symposium/index.html"> Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a></li>
+</ul>
+
 ### Journal Reviewer:
 <ul style="line-height: 120%">
 <li> Computer Methods and Programs in Biomedicine (CMPB), Elsevier</li>

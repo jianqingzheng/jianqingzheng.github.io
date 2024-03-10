@@ -26,12 +26,12 @@
 <a class="inline-element" href="https://github.com/jianqingzheng/res_aligner_net">
   <img src="https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★" alt="code">
 </a> 
-<a><div class="dropdown inline-element">
+<div class="inline-element dropdown">
 <button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Blogs </button>
 <div class="dropdown-content">
     <a href="https://blog.csdn.net/amusi1994/article/details/135903644">CSDN博客</a>
 </div>
-</div></a>
+</div>
 
 **J. Q. Zheng**, Z. Wang, B. Huang, N. H. Lim, B. W. Papiez
 

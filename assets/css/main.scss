@@ -234,11 +234,10 @@ h1:before, .anchor:before {
 .dropdown-button {
     background-color: #007bff;
     color: white;
-    padding: 8px;
+    padding: 10px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
-    outline: none;
 }
 
 .dropdown-content {
@@ -258,9 +257,5 @@ h1:before, .anchor:before {
 }
 
 .dropdown-content a:hover {
-    background-color: #f1f1f1;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
+    background-color: #ddd;
 }

@@ -12,6 +12,7 @@
 
 ### Journal Reviewer:
 <ul style="line-height: 120%">
+<li> Artificial Intelligence in Medicine (AIIM), Elsevier</li>
 <li> Computer Methods and Programs in Biomedicine (CMPB), Elsevier</li>
 <li> IEEE Transaction on Robotics (T-RO)</li>
 <li> IEEE Robotics and Automation Letters (RA-L)</li>

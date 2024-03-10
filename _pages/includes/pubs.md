@@ -23,10 +23,10 @@
   <img src="https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg" alt="arXiv">
 </a></div>
 |
-<div class="inlinebadge"><a href="https://github.com/jianqingzheng/res_aligner_net">
+<a class="inline-element" href="https://github.com/jianqingzheng/res_aligner_net">
   <img src="https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★" alt="code">
-</a> </div>
-<div class="dropdown">
+</a> 
+<div class="dropdown inline-element">
 <button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Blogs </button>
 <div class="dropdown-content">
     <a href="https://blog.csdn.net/amusi1994/article/details/135903644">CSDN博客</a>

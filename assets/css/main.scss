@@ -226,7 +226,13 @@ h1:before, .anchor:before {
     font-size: 1em;
 }
 
-.dropdown, .inlinebadge {
+.inline-element {
+    display: inline-block; /* This makes elements line up horizontally */
+    vertical-align: middle; /* Adjusts vertical alignment if elements have different heights */
+    margin-right: 10px; /* Optional: Adds some space between the elements */
+}
+
+.dropdown {
     //position: relative;
     display: inline-block;
     vertical-align: middle;

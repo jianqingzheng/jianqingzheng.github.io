@@ -20,13 +20,13 @@
   <img src="https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow" alt="DOI">
 </a>
 |
-<span><a href="https://arxiv.org/abs/2203.04290">
+<a href="https://arxiv.org/abs/2203.04290">
   <img src="https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg" alt="arXiv">
-</a></span>
+</a>
 |
-<span><a href="https://github.com/jianqingzheng/res_aligner_net">
+<a href="https://github.com/jianqingzheng/res_aligner_net">
   <img src="https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★" alt="code">
-</a></span>
+</a>
 |
 <div class="dropdown">
 <button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Related Blogs </button>

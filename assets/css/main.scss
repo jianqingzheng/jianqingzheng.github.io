@@ -226,9 +226,10 @@ h1:before, .anchor:before {
     font-size: 1em;
 }
 
-.dropdown {
-    position: relative;
+.dropdown, .a {
+    //position: relative;
     display: inline-block;
+    vertical-align: middle;
 }
 
 /* Style the button used to open the dropdown content */

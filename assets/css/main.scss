@@ -225,3 +225,42 @@ h1:before, .anchor:before {
     background-color: rgba(0,32,48,0.7);
     font-size: 1em;
 }
+
+.badge_fold {
+    display: inline-block;
+    padding: 5px 10px;
+    color: white;
+    background-color: #007bff;
+    border-radius: 5px;
+    cursor: pointer;
+    user-select: none;
+  }
+
+.badge_fold details {
+    display: inline-block;
+  }
+
+.badge_fold summary {
+    outline: none;
+    list-style: none;
+  }
+
+.badge_fold summary::-webkit-details-marker {
+    display: none;
+  }
+
+.link-container {
+    margin-top: 5px;
+    display: none;
+    padding-left: 10px;
+  }
+
+.badge_fold details[open] .link-container {
+    display: block;
+  }
+
+.badge_fold a {
+    display: block;
+    color: white;
+    text-decoration: none;
+  }

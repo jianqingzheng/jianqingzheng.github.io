@@ -234,7 +234,7 @@ h1:before, .anchor:before {
 }
 
 .flex-container {
-    display: flex;
+    display: inline-block;
     //align-items: center; /* Center items vertically */
     gap: 1px; /* Adds space between items */
     .span {

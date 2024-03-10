@@ -1,7 +1,7 @@
 # <i class="fas fa-atom fa-spin"></i> Academic Services
 <details>
 <summary>
-### Co-organizer:
+<div style="cursor: pointer;"> Co-organizer </div>
 </summary>
 <ul style="line-height: 120%">
 <li> the 26th Annual Conference of the Chinese Life Scientist Society in the UK (promoted by <a href="https://mp.weixin.qq.com/s/8d-RoazDrkko_1zUZUOuqg">CLSS-UK</a>)</li>
@@ -11,7 +11,7 @@
 
 <details>
 <summary>
-### Session Chair:
+<div style="cursor: pointer;"> Session Chair </div>
 </summary>
 <ul style="line-height: 120%">
 <li> <a href="http://www.olsa.life/2024_Symposium/index.html"> Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a></li>
@@ -20,7 +20,7 @@
 
 <details>
 <summary>
-### Journal Reviewer:
+<div style="cursor: pointer;"> Journal Reviewer </div>
 </summary>
 <ul style="line-height: 120%">
 <li> Artificial Intelligence in Medicine (AIIM), Elsevier</li>
@@ -33,7 +33,7 @@
 
 <details>
 <summary>
-### Conference Reviewer:
+<div style="cursor: pointer;"> Conference Reviewer </div>
 </summary>
 <ul style="line-height: 120%">
 <li> International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021, Springer</li>

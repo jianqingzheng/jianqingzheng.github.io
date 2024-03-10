@@ -109,3 +109,14 @@ $(document).ready(function(){
 
 });
 
+document.querySelectorAll('.dropdown').forEach(function(dropdown) {
+  dropdown.querySelector('.dropdown-button').addEventListener('mouseenter', function() {
+    const dropdownContent = dropdown.querySelector('.dropdown-content');
+    // Check if the dropdown content goes beyond the viewport
+    if (dropdownContent.getBoundingClientRect().right > window.innerWidth) {
+      dropdownContent.classList.add('dropdown-content-right'); // Align right
+    } else {
+      dropdownContent.classList.remove('dropdown-content-right'); // Default alignment
+    }
+  });
+});

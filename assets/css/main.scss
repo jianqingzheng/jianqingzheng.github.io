@@ -292,3 +292,8 @@ h1:before, .anchor:before {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+/* Align dropdown content to the right */
+.dropdown-content-right {
+  right: 0;
+}

@@ -241,6 +241,9 @@ h1:before, .anchor:before {
         font-size: 16px;
         line-height: 50px; /* Aligns text vertically. Should match the button's height for single-line text */
     }
+    .a {
+        text-decoration: none;
+    }
 }
 
 .dropdown {

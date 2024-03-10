@@ -16,9 +16,9 @@
 [![code](https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★)](https://github.com/jianqingzheng/res_aligner_net) \|
 
 <div class="flex-container">
-<span><a href="https://doi.org/10.1016/j.media.2023.103038">
+<a href="https://doi.org/10.1016/j.media.2023.103038">
   <img src="https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow" alt="DOI">
-</a></span>
+</a>
 |
 <span><a href="https://arxiv.org/abs/2203.04290">
   <img src="https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg" alt="arXiv">

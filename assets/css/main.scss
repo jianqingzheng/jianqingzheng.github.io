@@ -269,10 +269,10 @@ h1:before, .anchor:before {
     display: none; /* Hidden by default */
     position: absolute; /* Position the dropdown content */
     background-color: #FFFFFF; /* Light grey background */
-    min-width: 160px; /* Minimum width */
+    min-width: 120px; /* Minimum width */
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); /* Shadow effect */
     z-index: 1; /* Ensures the dropdown is on top of other content */
-    line-height: 40px; /* Aligns text vertically. Should match the button's height for single-line text */
+    line-height: 25px; /* Aligns text vertically. Should match the button's height for single-line text */
 }
 
 /* Links inside the dropdown */

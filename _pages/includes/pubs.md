@@ -28,9 +28,8 @@
 </a>
 |
 <div class="dropdown">
-<button class="dropdown-button"><i class='fas fa-blog'></i> Blogs </button>
+<button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Blogs </button>
 <div class="dropdown-content">
-    <a href="https://blog.csdn.net/amusi1994/article/details/135903644">CSDN博客</a>
     <a href="https://blog.csdn.net/amusi1994/article/details/135903644">CSDN博客</a>
 </div>
 </div>

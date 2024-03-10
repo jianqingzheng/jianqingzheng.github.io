@@ -237,6 +237,10 @@ h1:before, .anchor:before {
     display: flex;
     //align-items: center; /* Center items vertically */
     gap: 10px; /* Adds space between items */
+    .span {
+        font-size: 16px;
+        line-height: 50px; /* Aligns text vertically. Should match the button's height for single-line text */
+    }
 }
 
 .dropdown {
@@ -247,9 +251,12 @@ h1:before, .anchor:before {
 
 /* Style the button used to open the dropdown content */
 .dropdown-button {
+    height: 40px; /* Set the fixed height */
     background-color: #003f3f; /* Blue background */
     color: white; /* White text */
     padding: 3px; /* Some padding */
+    font-size: 16px; /* Text size */
+    text-align: center; /* Center the text horizontally */
     border: none; /* No border */
     cursor: pointer; /* Pointer/hand icon */
     border-radius: 4px; /* Rounded corners */

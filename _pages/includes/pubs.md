@@ -11,10 +11,6 @@
 <div class='paper-box-text' markdown="1">
 [Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://doi.org/10.1016/j.media.2023.103038)
 
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow)](https://doi.org/10.1016/j.media.2023.103038) \|
-[![arXiv](https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg)](https://arxiv.org/abs/2203.04290) \| 
-[![code](https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★)](https://github.com/jianqingzheng/res_aligner_net) \|
-
 <div class="inline-container">
 <a href="https://doi.org/10.1016/j.media.2023.103038"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow" alt="DOI"></a>
 |
@@ -32,7 +28,6 @@
 
 **J. Q. Zheng**, Z. Wang, B. Huang, N. H. Lim, B. W. Papiez
 
-- This work is translated and reported in [CSDN博客](https://blog.csdn.net/amusi1994/article/details/135903644).
 - This is the **first quantitative investigation** of deep learning methods for **discontinuous deformable registration**.
 
 <div class="small-box">
@@ -159,6 +154,10 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 [Deep learning-based rapid generation of broadly reactive antibodies against SARS-CoV-2 and its Omicron variant](https://www.nature.com/articles/s41422-022-00727-6)
 
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow)](https://www.nature.com/articles/s41422-022-00727-6) \| [![](https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★)](https://github.com/jianqingzheng/XBCR-net) \| [![Explore XBCR-net in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jianqingzheng/XBCR-net/blob/main/XBCR_net.ipynb)
+
+<div class="inline-container">
+
+</div>
 
 H. Lou†, **J. Q. Zheng†**, X. Fang, Z. Liang, M. Zhang, Y. Chen, C. Wang, and X. Cao. 
 

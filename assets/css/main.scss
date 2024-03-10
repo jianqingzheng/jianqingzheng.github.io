@@ -233,6 +233,12 @@ h1:before, .anchor:before {
     margin-right: 10px; /* Optional: Adds some space between the elements */
 }
 
+.flex-container {
+    display: flex;
+    align-items: center; /* Center items vertically */
+    gap: 10px; /* Adds space between items */
+}
+
 .dropdown {
     //position: relative;
     display: inline-block;

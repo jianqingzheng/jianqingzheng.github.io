@@ -237,8 +237,8 @@ h1:before, .anchor:before {
     display: inline-block;
     vertical-align: middle; /* Adjusts vertical alignment if elements have different heights */
     //align-items: center; /* Center items vertically */
-    gap: 1px; /* Adds space between items */
-    line-height: 60px; /* Aligns text vertically. Should match the button's height for single-line text */
+    gap: 0px; /* Adds space between items */
+    line-height: 50px; /* Aligns text vertically. Should match the button's height for single-line text */
     font-size: 16px;
     a {
         text-decoration: none;

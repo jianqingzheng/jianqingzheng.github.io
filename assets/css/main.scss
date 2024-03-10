@@ -236,7 +236,7 @@ h1:before, .anchor:before {
 .flex-container {
     display: flex;
     //align-items: center; /* Center items vertically */
-    gap: 10px; /* Adds space between items */
+    gap: 1px; /* Adds space between items */
     .span {
         font-size: 16px;
         line-height: 50px; /* Aligns text vertically. Should match the button's height for single-line text */
@@ -255,7 +255,7 @@ h1:before, .anchor:before {
     background-color: #003f3f; /* Blue background */
     color: white; /* White text */
     padding: 3px; /* Some padding */
-    font-size: 16px; /* Text size */
+    font-size: 12px; /* Text size */
     text-align: center; /* Center the text horizontally */
     border: none; /* No border */
     cursor: pointer; /* Pointer/hand icon */

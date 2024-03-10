@@ -227,6 +227,7 @@ h1:before, .anchor:before {
 }
 
 .inline-element {
+    float: left; /* Makes the element float to the left */
     display: inline-block; /* This makes elements line up horizontally */
     vertical-align: middle; /* Adjusts vertical alignment if elements have different heights */
     margin-right: 10px; /* Optional: Adds some space between the elements */

@@ -26,7 +26,6 @@
 <div class="inlinebadge"><a href="https://github.com/jianqingzheng/res_aligner_net">
   <img src="https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★" alt="code">
 </a> </div>
-|
 <div class="dropdown">
 <button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Blogs </button>
 <div class="dropdown-content">

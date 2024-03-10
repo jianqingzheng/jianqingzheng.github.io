@@ -233,19 +233,19 @@ h1:before, .anchor:before {
 
 /* Style the button used to open the dropdown content */
 .dropdown-button {
-    background-color: #007bff; /* Blue background */
-    color: white; /* White text */
-    padding: 10px; /* Some padding */
+    background-color: #dfffff; /* Blue background */
+    color: black; /* White text */
+    padding: 3px; /* Some padding */
     border: none; /* No border */
     cursor: pointer; /* Pointer/hand icon */
-    border-radius: 5px; /* Rounded corners */
+    border-radius: 2px; /* Rounded corners */
 }
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none; /* Hidden by default */
     position: absolute; /* Position the dropdown content */
-    background-color: #f9f9f9; /* Light grey background */
+    background-color: #fffff9; /* Light grey background */
     min-width: 160px; /* Minimum width */
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); /* Shadow effect */
     z-index: 1; /* Ensures the dropdown is on top of other content */
@@ -254,7 +254,7 @@ h1:before, .anchor:before {
 /* Links inside the dropdown */
 .dropdown-content a {
     color: black; /* Black text */
-    padding: 12px 16px; /* Some padding */
+    padding: 10px 10px; /* Some padding */
     text-decoration: none; /* No underline */
     display: block; /* Display as block-level (new line for each link) */
 }

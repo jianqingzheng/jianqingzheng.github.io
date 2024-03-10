@@ -233,8 +233,9 @@ h1:before, .anchor:before {
     margin-right: 10px; /* Optional: Adds some space between the elements */
 }
 
-.flex-container {
+.inline-container {
     display: inline-block;
+    vertical-align: middle; /* Adjusts vertical alignment if elements have different heights */
     //align-items: center; /* Center items vertically */
     gap: 1px; /* Adds space between items */
     .span {

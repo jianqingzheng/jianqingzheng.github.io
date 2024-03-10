@@ -15,7 +15,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg)](https://arxiv.org/abs/2203.04290) \| 
 [![code](https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★)](https://github.com/jianqingzheng/res_aligner_net) \|
 
-<div class="flex-container">
+<div class="inline-container">
 <a href="https://doi.org/10.1016/j.media.2023.103038">
   <img src="https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow" alt="DOI">
 </a>
@@ -24,10 +24,11 @@
   <img src="https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg" alt="arXiv">
 </a></span>
 |
-<span><a class="inline-element" href="https://github.com/jianqingzheng/res_aligner_net">
+<span><a href="https://github.com/jianqingzheng/res_aligner_net">
   <img src="https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★" alt="code">
 </a></span>
-<div class="inline-element dropdown">
+|
+<div class="dropdown">
 <button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Related Blogs </button>
 <div class="dropdown-content">
     <a href="https://blog.csdn.net/amusi1994/article/details/135903644">CSDN博客</a>

@@ -15,7 +15,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg)](https://arxiv.org/abs/2203.04290) \| 
 [![code](https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★)](https://github.com/jianqingzheng/res_aligner_net) \|
 <div class="dropdown">
-<button class="dropdown-button">Blogs</button>
+<button class="dropdown-button"><i class='fas fa-blog'></i> Blogs </button>
 <div class="dropdown-content">
     <a href="https://blog.csdn.net/amusi1994/article/details/135903644">CSDN博客</a>
     <a href="https://blog.csdn.net/amusi1994/article/details/135903644">CSDN博客</a>

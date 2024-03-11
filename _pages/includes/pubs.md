@@ -156,7 +156,32 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow)](https://www.nature.com/articles/s41422-022-00727-6) \| [![](https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★)](https://github.com/jianqingzheng/XBCR-net) \| [![Explore XBCR-net in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jianqingzheng/XBCR-net/blob/main/XBCR_net.ipynb)
 
 <div class="inline-container">
-
+<a href="https://www.nature.com/articles/s41422-022-00727-6">
+  <img src="https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow" alt="DOI">
+</a>
+| 
+<a href="https://github.com/jianqingzheng/XBCR-net">
+  <img src="https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★" alt="GitHub stars">
+</a>
+| 
+<a href="https://colab.research.google.com/github/jianqingzheng/XBCR-net/blob/main/XBCR_net.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Explore XBCR-net in Colab">
+</a>
+|
+<div class="dropdown">
+<button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Related Blogs </button>
+<div class="dropdown-content">
+    <a href="https://mp.weixin.qq.com/s/fDeRXs8Cq0L_LzYvZlI1iA">iNature (中文)</a>
+</div>
+</div>
+|
+<div class="dropdown">
+<button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Related News </button>
+<div class="dropdown-content">
+    <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a>
+    <a href="http://news.nankai.edu.cn/ywsd/system/2022/10/12/030053111.shtml">南开新闻 (中文)</a>
+</div>
+</div>
 </div>
 
 H. Lou†, **J. Q. Zheng†**, X. Fang, Z. Liang, M. Zhang, Y. Chen, C. Wang, and X. Cao. 

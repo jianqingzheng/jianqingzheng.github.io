@@ -238,7 +238,7 @@ h1:before, .anchor:before {
     vertical-align: middle; /* Adjusts vertical alignment if elements have different heights */
     //align-items: center; /* Center items vertically */
     gap: 0px; /* Adds space between items */
-    line-height: 30px; /* Aligns text vertically. Should match the button's height for single-line text */
+    line-height: 26px; /* Aligns text vertically. Should match the button's height for single-line text */
     font-size: 16px;
     a {
         text-decoration: none;
@@ -272,7 +272,7 @@ h1:before, .anchor:before {
     min-width: 120px; /* Minimum width */
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); /* Shadow effect */
     z-index: 1; /* Ensures the dropdown is on top of other content */
-    line-height: 24px; /* Aligns text vertically. Should match the button's height for single-line text */
+    line-height: 25px; /* Aligns text vertically. Should match the button's height for single-line text */
 }
 
 /* Links inside the dropdown */

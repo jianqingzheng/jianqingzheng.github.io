@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
 <h1 id="-selected-publications"><i class="fas fa-brain fa-spin"></i> Selected Publications <div style="float:right;">[<a href="https://scholar.google.co.uk/citations?user=2bNsYR0AAAAJ">Google Scholar</a>]</div></h1>
 
 † denotes equal contribution
@@ -176,10 +180,11 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 </div>
 |
 <div class="dropdown">
-<button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Related News </button>
+<button class="dropdown-button" style="background-color: #3f003f"> Related News </button>
 <div class="dropdown-content">
     <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a>
-    <a href="http://news.nankai.edu.cn/ywsd/system/2022/10/12/030053111.shtml">南开新闻 (中文)</a>
+    <a href="https://en.nankai.edu.cn/2022/1115/c22796a495042/page.htm">news.nankai.edu</a>
+    <a href="https://www.sohu.com/a/588753859_183834">搜狐网</a>
 </div>
 </div>
 </div>

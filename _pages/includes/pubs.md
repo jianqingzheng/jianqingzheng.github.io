@@ -172,7 +172,7 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 </div>
 |
 <div class="dropdown">
-<button class="dropdown-button" style="background-color: #3f003f"> Related News </button>
+<button class="dropdown-button" style="background-color: #3f003f"><i class='fas fa-blog' style='color:white'></i> Related News </button>
 <div class="dropdown-content">
     <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a>
     <a href="https://en.nankai.edu.cn/2022/1115/c22796a495042/page.htm">news.nankai.edu</a>

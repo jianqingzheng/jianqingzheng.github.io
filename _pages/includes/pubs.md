@@ -176,6 +176,7 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 <div class="dropdown-content">
     <a href="https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies">eng.ox.ac.uk</a>
     <a href="https://en.nankai.edu.cn/2022/1115/c22796a495042/page.htm">news.nankai.edu</a>
+    <a href="https://www.toutiao.com/article/7156887617291092480/?wid=1710118034547">今日头条</a>
     <a href="https://www.sohu.com/a/588753859_183834">搜狐网</a>
 </div>
 </div>

@@ -3,7 +3,7 @@
 <summary style="cursor: pointer;">
  Co-organizer 
 </summary>
-<ul style="line-height: 100%">
+<ul>
 <li> the 26th Annual Conference of the Chinese Life Scientist Society in the UK (promoted by <a href="https://mp.weixin.qq.com/s/8d-RoazDrkko_1zUZUOuqg">CLSS-UK</a>)</li>
 <li> the 28th-43th <a href="http://www.olsa.life/">Oxford Life Science Association</a> Monthly Seminar (former name: OCLSS Seminar, promoted via <a href="https://twitter.com/OxfordLifeSci">twitter</a> and <a href="https://www.facebook.com/OxLifeSci">facebook</a>)</li>
 </ul>
@@ -13,7 +13,7 @@
 <summary style="cursor: pointer;">
 Session Chair
 </summary>
-<ul style="line-height: 100%">
+<ul>
 <li> <a href="http://www.olsa.life/2024_Symposium/index.html"> Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a></li>
 </ul>
 </details>
@@ -22,7 +22,7 @@ Session Chair
 <summary style="cursor: pointer;">
 Journal Reviewer 
 </summary>
-<ul style="line-height: 100%">
+<ul>
 <li> Artificial Intelligence in Medicine (AIIM), Elsevier</li>
 <li> Computer Methods and Programs in Biomedicine (CMPB), Elsevier</li>
 <li> IEEE Transaction on Robotics (T-RO)</li>
@@ -35,7 +35,7 @@ Journal Reviewer
 <summary style="cursor: pointer;">
 Conference Reviewer 
 </summary>
-<ul style="line-height: 100%">
+<ul>
 <li> International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021, Springer</li>
 <li> European Conference on Computer Vision (ECCV) 2022, Springer</li>
 <li> IEEE International Conference on Robotic and Automation (ICRA) 2019</li>

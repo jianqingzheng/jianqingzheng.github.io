@@ -38,8 +38,4 @@ ___
 
 ___
 ---
-{% include_relative includes/works.md %}
-
-___
----
 {% include_relative includes/acknowledge.md %}

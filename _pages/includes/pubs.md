@@ -17,15 +17,13 @@
 
 <div class="inline-container">
 <a href="https://doi.org/10.1016/j.media.2023.103038"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow" alt="DOI"></a>
-|
 <a href="https://arxiv.org/abs/2203.04290"><img src="https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg" alt="arXiv"></a>
-|
 <a href="https://github.com/jianqingzheng/res_aligner_net"><img src="https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★" alt="code"></a>
-|
 <div class="dropdown">
 <button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Related Blogs </button>
 <div class="dropdown-content">
     <a href="https://blog.csdn.net/amusi1994/article/details/135903644">CSDN博客</a>
+    <a href="https://mp.weixin.qq.com/s/QV_MiNLzZMpKNw1vy_0yXA">CVer公众号</a>
 </div>
 </div>
 </div>
@@ -82,7 +80,9 @@
 <div class='paper-box-text' markdown="1">
 [ACNN: a Full Resolution DCNN for Medical Image Segmentation](https://doi.org/10.1109/ICRA40945.2020.9197328)
 
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA40945.2020.9197328-darkyellow)](https://doi.org/10.1109/ICRA40945.2020.9197328) \| [![arXiv](https://img.shields.io/badge/arXiv-1901.09203-b31b1b.svg)](https://arxiv.org/abs/1901.09203) \| [![](https://img.shields.io/github/stars/XiaoYunZhou27/ACNN?style=social&label=Code+★)](https://github.com/XiaoYunZhou27/ACNN)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA40945.2020.9197328-darkyellow)](https://doi.org/10.1109/ICRA40945.2020.9197328)
+[![arXiv](https://img.shields.io/badge/arXiv-1901.09203-b31b1b.svg)](https://arxiv.org/abs/1901.09203)
+[![](https://img.shields.io/github/stars/XiaoYunZhou27/ACNN?style=social&label=Code+★)](https://github.com/XiaoYunZhou27/ACNN)
 
 X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 
@@ -108,8 +108,8 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 [Towards 3D Path Planning from a Single 2D Fluoroscopic Image for Fenestrated Endovascular Aortic Repair](https://ieeexplore.ieee.org/abstract/document/8793918)
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA.2019.8793918-darkyellow)](https://ieeexplore.ieee.org/abstract/document/8793918/)
-\| [![arXiv](https://img.shields.io/badge/arXiv-1809.05955-b31b1b.svg)](https://arxiv.org/abs/1809.05955)
-\| [![code](https://img.shields.io/github/stars/jianqingzheng/path_planning_for_FEVAR?style=social&label=Code+★)](https://github.com/jianqingzheng/path_planning_for_FEVAR)
+[![arXiv](https://img.shields.io/badge/arXiv-1809.05955-b31b1b.svg)](https://arxiv.org/abs/1809.05955)
+[![code](https://img.shields.io/github/stars/jianqingzheng/path_planning_for_FEVAR?style=social&label=Code+★)](https://github.com/jianqingzheng/path_planning_for_FEVAR)
 
 **J. Q. Zheng**, X. Y. Zhou, C. Riga, G. Z. Yang
 
@@ -131,9 +131,9 @@ X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
 [Self-Supervised Depth Estimation in Laparoscopic Image using 3D Geometric Consistency](https://doi.org/10.1007/978-3-031-16449-1_2)
 
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--16449--1__2-darkyellow)](https://doi.org/10.1007/978-3-031-16449-1_2)
-\| [![arXiv](https://img.shields.io/badge/arXiv-2208.08407-b31b1b.svg)](https://arxiv.org/abs/2208.08407)
-\| [![code](https://img.shields.io/github/stars/br0202/M3Depth?style=social&label=Technique Code+★)](https://github.com/br0202/M3Depth)
-\| [![code](https://img.shields.io/github/stars/br0202/SL-Decoder?style=social&label=Data+★)](https://github.com/br0202/SL-Decoder)
+[![arXiv](https://img.shields.io/badge/arXiv-2208.08407-b31b1b.svg)](https://arxiv.org/abs/2208.08407)
+[![code](https://img.shields.io/github/stars/br0202/M3Depth?style=social&label=Technique Code+★)](https://github.com/br0202/M3Depth)
+[![code](https://img.shields.io/github/stars/br0202/SL-Decoder?style=social&label=Data+★)](https://github.com/br0202/SL-Decoder)
 
 B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S. Giannarou, D. S. Elson
 
@@ -159,11 +159,8 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 
 <div class="inline-container">
 <a href="https://www.nature.com/articles/s41422-022-00727-6"><img src="https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow" alt="DOI"></a>
-| 
 <a href="https://github.com/jianqingzheng/XBCR-net"><img src="https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★" alt="GitHub stars"></a>
-| 
 <a href="https://colab.research.google.com/github/jianqingzheng/XBCR-net/blob/main/XBCR_net.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Explore XBCR-net in Colab"></a>
-|
 <div class="dropdown">
 <button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Related Blogs </button>
 <div class="dropdown-content">

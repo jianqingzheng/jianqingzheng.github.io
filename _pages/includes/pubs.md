@@ -166,7 +166,7 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 <div class="dropdown">
 <button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Related Blogs </button>
 <div class="dropdown-content">
-    <a href="https://mp.weixin.qq.com/s/fDeRXs8Cq0L_LzYvZlI1iA">iNature (中文)</a>
+    <a href="https://mp.weixin.qq.com/s/fDeRXs8Cq0L_LzYvZlI1iA">iNature公众号</a>
     <a href="https://www.jianshu.com/p/738566843214">简书</a>
 </div>
 </div>

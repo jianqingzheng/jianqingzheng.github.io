@@ -50,12 +50,14 @@
 <img src='images/pubs/cartilage_area.jpg' alt="sym" width="100%" title="The subtraction between aligned CT scans with and without contrast enhancement highlights the cartilage area."></div></div>
 <div class='paper-box-text' markdown="1">
 [Accurate volume alignment of arbitrarily oriented tibiae based on a mutual attention network for osteoarthritis analysis](https://www.sciencedirect.com/science/article/pii/S0895611123000228)
-\| [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.compmedimag.2023.102204-darkyellow)](https://doi.org/10.1016/j.compmedimag.2023.102204)
-\| [![Patent](https://img.shields.io/badge/Patent-pending-orange)]()
+\| 
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.compmedimag.2023.102204-darkyellow)](https://doi.org/10.1016/j.compmedimag.2023.102204)
+[![Patent](https://img.shields.io/badge/Patent-pending-orange)]()
 
 [D-net: siamese based network for arbitrarily oriented volume alignment](https://link.springer.com/chapter/10.1007/978-3-030-61056-2_6)
-\| [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--030--61056--2__6-darkyellow)](https://doi.org/10.1007/978-3-030-61056-2_6)
-\| [![arXiv](https://img.shields.io/badge/arXiv-2101.10248-b31b1b.svg)](https://arxiv.org/abs/2101.10248)
+\| 
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--030--61056--2__6-darkyellow)](https://doi.org/10.1007/978-3-030-61056-2_6)
+[![arXiv](https://img.shields.io/badge/arXiv-2101.10248-b31b1b.svg)](https://arxiv.org/abs/2101.10248)
 
 **J. Q. Zheng**, N. H. Lim, B. W. Papiez
 

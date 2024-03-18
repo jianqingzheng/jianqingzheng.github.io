@@ -170,7 +170,6 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
     <a href="https://www.jianshu.com/p/738566843214">简书</a>
 </div>
 </div>
-|
 <div class="dropdown">
 <button class="dropdown-button" style="background-color: #3f003f"><i class='fas fa-globe' style='color:white'></i> Related News </button>
 <div class="dropdown-content">

@@ -23,6 +23,7 @@ Session Chair
 Journal Reviewer 
 </summary>
 <ul>
+<li> Pattern Recognition (PR), Elsevier</li>
 <li> Artificial Intelligence in Medicine (AIIM), Elsevier</li>
 <li> Computer Methods and Programs in Biomedicine (CMPB), Elsevier</li>
 <li> IEEE Transaction on Robotics (T-RO)</li>

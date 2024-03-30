@@ -33,7 +33,7 @@
 		code {
             background-color: #001818 !important;; 
             color: #F7F9F9;
-            padding: 0px; 
+            padding: 1px, 0px; 
             margin: 0px;
             border-radius: 3px; 
             font-family: "Arial Narrow";

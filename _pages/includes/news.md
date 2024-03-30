@@ -17,7 +17,7 @@
 		}
 		ul.events li {
 			font-weight: normal;
-			align-items: left;
+			align-items: initial;
 			position: relative;
 			padding-left: 58px;
 			z-index: 0;
@@ -33,8 +33,8 @@
 		code {
             background-color: #001818; 
             color: white; 
-            padding: 1px 1px; 
-            margin: 1px;
+            padding: 0px; 
+            margin: 0px;
             border-radius: 3px; 
             font-family: monospace;
             font-size: 10px;

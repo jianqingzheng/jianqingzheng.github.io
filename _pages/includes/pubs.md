@@ -86,7 +86,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-1901.09203-b31b1b.svg)](https://arxiv.org/abs/1901.09203)
 [![](https://img.shields.io/github/stars/XiaoYunZhou27/ACNN?style=social&label=Code+★)](https://github.com/XiaoYunZhou27/ACNN)
 
-X. Y. Zhou†, **J. Q. Zheng†**, P. Li, G. Z. Yang
+X. Y. Zhou<abbr title="equal contribution">†</abbr>, **J. Q. Zheng**<abbr title="equal contribution">†</abbr>, P. Li, G. Z. Yang
 
 - A **pooling-free network structure** is proposed to achieve **full-resolution** feature processing using a **theoretically optimal dilation setting** for a larger receptive field, which achieves a **higher accuracy** even with **fewer parameters**.
 
@@ -181,7 +181,7 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 </div>
 </div>
 
-H. Lou†, **J. Q. Zheng†**, X. Fang, Z. Liang, M. Zhang, Y. Chen, C. Wang, and X. Cao. 
+H. Lou<abbr title="equal contribution">†</abbr>, **J. Q. Zheng**<abbr title="equal contribution">†</abbr>, X. Fang, Z. Liang, M. Zhang, Y. Chen, C. Wang, and X. Cao. 
 
 - The **first** deep learning method is proposed for predicting **cross-reactive antibodies**, using <a href="/#acnn_rf">ACNN</a> structure for feature extraction.
 

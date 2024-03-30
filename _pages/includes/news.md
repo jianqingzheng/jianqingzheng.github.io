@@ -31,7 +31,7 @@
 			z-index: 0;
 		}
 		code {
-            background-color: rgba(0,32,48,0); 
+            background-color: #001818; 
             color: white; 
             padding: 1px 1px; 
             margin: 1px;

@@ -30,6 +30,16 @@
 			left: 0px;
 			z-index: 0;
 		}
+		code {
+            background-color: #485858 !important;
+            color: white;
+            padding: 1px 3px !important;
+            margin: 0px !important;
+            border-radius: 4px !important;
+            font-family: "Arial Narrow" !important;
+            font-size: 12px !important;
+            z-index: 0;
+        }
 	</style>
 </head>
 

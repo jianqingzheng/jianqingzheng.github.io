@@ -31,7 +31,7 @@
 			z-index: 0;
 		}
 		code {
-            background-color: #001818; 
+            background-color: #001818 !important;; 
             color: #F7F9F9;
             padding: 0px; 
             margin: 0px;

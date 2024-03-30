@@ -33,11 +33,11 @@
 		code {
             background-color: #384848 !important; 
             color: #F7F9F9;
-            padding: 0px 1px !important; 
+            padding: 1px 2px !important; 
             margin: 0px 0px !important;
             border-radius: 3px !important; 
             font-family: "Arial Narrow" !important;
-            font-size: 11px !important;
+            font-size: 12px !important;
             z-index: 0;
         }
 	</style>

@@ -32,7 +32,6 @@
 		}
 		code {
             background-color: #001818; 
-            color: white; 
             padding: 0px; 
             margin: 0px;
             border-radius: 3px; 

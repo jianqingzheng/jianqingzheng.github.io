@@ -32,10 +32,11 @@
 		}
 		code {
             background-color: #001818; 
+            color: #F7F9F9;
             padding: 0px; 
             margin: 0px;
             border-radius: 3px; 
-            font-family: monospace;
+            font-family: "Arial Narrow";
             font-size: 10px;
             z-index: 0;
         }

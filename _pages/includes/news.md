@@ -35,7 +35,7 @@
             color: white;
             padding: 2px 3px !important; 
             margin: 0px !important;
-            border-radius: 1px !important; 
+            border-radius: 3px !important; 
             font-family: "Arial Narrow" !important;
             font-size: 12px !important;
             z-index: 0;

@@ -19,7 +19,7 @@
 			font-weight: normal;
 			align-items: initial;
 			position: relative;
-			padding-left: 58px;
+			padding-left: 56px;
 			z-index: 0;
 		}
 		ul.events li:before {

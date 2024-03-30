@@ -30,6 +30,16 @@
 			left: 0px;
 			z-index: 0;
 		}
+		code {
+            background-color: rgba(0,32,48,0); 
+            color: white; 
+            padding: 1px 1px; 
+            margin: 1px;
+            border-radius: 3px; 
+            font-family: monospace;
+            font-size: 10px;
+            z-index: 0;
+        }
 	</style>
 </head>
 

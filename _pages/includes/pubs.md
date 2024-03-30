@@ -4,8 +4,6 @@
 
 <h1 id="-selected-publications"><i class="fas fa-brain fa-spin"></i> Selected Publications <div style="float:right;">[<a href="https://scholar.google.co.uk/citations?user=2bNsYR0AAAAJ">Google Scholar</a>]</div></h1>
 
-† denotes equal contribution
-
 ## a. Biomedical Data Analysis
 
 <div class='paper-box'>
@@ -100,7 +98,7 @@ X. Y. Zhou<abbr title="equal contribution">†</abbr>, **J. Q. Zheng**<abbr titl
 </div>
 </div>
 
-## b. Image Guided Intervention
+## b. Surgical Navigation
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICRA 2019</div>

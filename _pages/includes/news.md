@@ -37,7 +37,7 @@
             margin: 0px;
             border-radius: 3px; 
             font-family: "Arial Narrow";
-            font-size: 10px;
+            font-size: 8px;
             z-index: 0;
         }
 	</style>

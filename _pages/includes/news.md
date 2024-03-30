@@ -31,13 +31,13 @@
 			z-index: 0;
 		}
 		code {
-            background-color: #001818 !important;; 
+            background-color: #384848 !important; 
             color: #F7F9F9;
-            padding: 1px 0px; 
+            padding: 2px 0px !important; 
             margin: 0px;
-            border-radius: 3px; 
-            font-family: "Arial Narrow";
-            font-size: 8px;
+            border-radius: 3px !important; 
+            font-family: "Arial Narrow" !important;
+            font-size: 8px !important;
             z-index: 0;
         }
 	</style>

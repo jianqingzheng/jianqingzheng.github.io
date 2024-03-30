@@ -32,7 +32,7 @@
 		}
 		code {
             background-color: #485858 !important; 
-            color: #F7F9F9;
+            color: white;
             padding: 2px 3px !important; 
             margin: 0px !important;
             border-radius: 1px !important; 

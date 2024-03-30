@@ -36,14 +36,14 @@
 <body>
 <div class="bottom_box" >
 	<ul class="events">
-		<li data-date="2024/03">: <code>Biomed_Data_Analy</code> One journal paper is accepted by <b><i>IEEE Trans on Signal Processing</i> (IF:5.4)</b>.</li>
+		<li data-date="2024/03">: <code>Biomed_Analy</code> One journal paper is accepted by <b><i>IEEE Trans on Signal Processing</i> (IF:5.4)</b>.</li>
 		<li data-date="2024/03">: <a href="http://www.olsa.life/2024_Symposium/index.html">Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a> will be held on Thursday, 7th March 2024, at Oxford.</li>
-		<li data-date="2023/11">: <code>Biomed_Data_Analy</code> One journal paper is accepted by <b><i>Medical Image Analysis</i> (IF:13.8)</b>.</li>
-		<li data-date="2023/01">: <code>Biomed_Data_Analy</code> One journal paper is accepted by <b><i>Computerized Medical Imaging and Graphics</i> (IF:7.4)</b>.</li>
+		<li data-date="2023/11">: <code>Biomed_Analy</code> One journal paper is accepted by <b><i>Medical Image Analysis</i> (IF:13.8)</b>.</li>
+		<li data-date="2023/01">: <code>Biomed_Analy</code> One journal paper is accepted by <b><i>Computerized Medical Imaging and Graphics</i> (IF:7.4)</b>.</li>
 		<li data-date="2022/09">: <code>Comput_Bio</code> One journal paper is accepted by <b><i>Cell Research </i> (IF:46.3)</b> with the released <a href="https://github.com/jianqingzheng/XBCR-net"><img src="https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★" /></a> and <a href="https://colab.research.google.com/github/jianqingzheng/XBCR-net/blob/main/XBCR_net.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>.</li>
 		<li data-date="2022/07">: A 20-min oral presentation entitled <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_6">"Recursive Deformable Image Registration Network with Mutual Attention"</a> is given at MIUA 2022 in Cambridge.</li>
-		<li data-date="2022/06">: <code>Img_Guid_Interv</code> One conference paper is accepted by <b><i>MICCAI 2022</i></b> with the released <a href="https://github.com/br0202/M3Depth"><img src="https://img.shields.io/github/stars/br0202/M3Depth?style=social&label=Technique Code+★" /></a> and <a href="https://github.com/br0202/SL-Decoder"><img src="https://img.shields.io/github/stars/br0202/SL-Decoder?style=social&label=Data+★" /></a>.</li>
-		<li data-date="2022/05">: <code>Biomed_Data_Analy</code> Two conference papers are accepted by <b><i>MIUA 2022</i></b>, one oral presentation and one poster session.</li>
+		<li data-date="2022/06">: <code>Surg_Navig</code> One conference paper is accepted by <b><i>MICCAI 2022</i></b> with the released <a href="https://github.com/br0202/M3Depth"><img src="https://img.shields.io/github/stars/br0202/M3Depth?style=social&label=Technique Code+★" /></a> and <a href="https://github.com/br0202/SL-Decoder"><img src="https://img.shields.io/github/stars/br0202/SL-Decoder?style=social&label=Data+★" /></a>.</li>
+		<li data-date="2022/05">: <code>Biomed_Analy</code> Two conference papers are accepted by <b><i>MIUA 2022</i></b>, one oral presentation and one poster session.</li>
 	</ul>
 </div>
 </body>

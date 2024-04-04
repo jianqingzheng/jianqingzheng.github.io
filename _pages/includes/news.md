@@ -36,7 +36,7 @@
             border-style: unset;
             padding: 1px 3px 2px 3px !important;
             margin: 0px !important;
-            align-items: center !important;
+            align-items: initial !important;
             border-radius: 0px !important;
             font-family: "Arial" !important;
             font-size: 12px !important;

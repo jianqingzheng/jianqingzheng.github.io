@@ -42,7 +42,7 @@
         }
         .white-icon {
             color: white;
-            font-size: 8px;
+            font-size: 9px;
             align-items: center;
         }
 	</style>

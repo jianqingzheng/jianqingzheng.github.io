@@ -50,6 +50,7 @@
 	</style>
 </head>
 
+
 <body>
 <div class="bottom_box" >
 	<ul class="events">

@@ -33,7 +33,7 @@
 		code {
             background-color: #626868 !important;
             color: white;
-            padding: 1px 3px !important;
+            padding: 1px 3px 1px 3px !important;
             margin: 0px !important;
             align-items: center;
             border-radius: 0px !important;

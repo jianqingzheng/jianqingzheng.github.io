@@ -45,7 +45,7 @@
             color: white;
             font-size: 9px;
             align-items: center;
-            margin-top: -1px; /* Adjust the margin-top as needed */
+            margin-top: -1px !important;
         }
 	</style>
 </head>

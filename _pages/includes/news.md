@@ -17,7 +17,7 @@
 		}
 		ul.events li {
 			font-weight: normal;
-			align-items: initial;
+			align-items: center;
 			position: relative;
 			padding-left: 56px;
 			z-index: 0;

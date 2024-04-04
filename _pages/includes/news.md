@@ -43,6 +43,7 @@
         .white-icon {
             color: white;
             font-size: 8px;
+            align-items: center;
         }
 	</style>
 </head>

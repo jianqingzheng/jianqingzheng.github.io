@@ -42,7 +42,7 @@
         }
         i {
             color: white;
-            font-size: 20px;
+            font-size: 12px;
         }
 	</style>
 </head>

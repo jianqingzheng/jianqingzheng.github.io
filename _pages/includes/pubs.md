@@ -17,6 +17,7 @@
 <a href="https://doi.org/10.1016/j.media.2023.103038"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow" alt="DOI"></a>
 <a href="https://arxiv.org/abs/2203.04290"><img src="https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg" alt="arXiv"></a>
 <a href="https://github.com/jianqingzheng/res_aligner_net"><img src="https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★" alt="code"></a>
+<a href="https://colab.research.google.com/github/jianqingzheng/res_aligner_net/blob/main/res_aligner_net.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 <div class="dropdown">
 <button class="dropdown-button"><i class='fas fa-blog' style='color:white'></i> Related Blogs </button>
 <div class="dropdown-content">

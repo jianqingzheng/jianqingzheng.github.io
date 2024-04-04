@@ -45,6 +45,7 @@
             color: white;
             font-size: 9px;
             align-items: center;
+            padding: 0px !important;
             margin-top: -1px !important;
         }
 	</style>

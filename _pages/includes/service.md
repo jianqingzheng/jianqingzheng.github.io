@@ -38,7 +38,7 @@ Conference Reviewer
 </summary>
 <ul>
 <li> International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021, Springer</li>
-<li> European Conference on Computer Vision (ECCV) 2022, Springer</li>
+<li> European Conference on Computer Vision (ECCV) 2024/2022, Springer</li>
 <li> IEEE International Conference on Robotic and Automation (ICRA) 2019</li>
 <li> UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2019</li>
 </ul>

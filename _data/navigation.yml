@@ -22,5 +22,5 @@ main:
   - title: "Academic Services"
     url: "/#-academic-services"
 
-  - title: "Work"
-    url: "/#-work-experiences"
+#  - title: "Work"
+#    url: "/#-work-experiences"

@@ -29,6 +29,7 @@ Journal Reviewer
 <li> IEEE Transaction on Robotics (T-RO)</li>
 <li> IEEE Robotics and Automation Letters (RA-L)</li>
 <li> IEEE Signal Processing Letters (SPL)</li>
+<li> Journal of Imaging Informatics in Medicine/Journal of Digital Imaging (JDIM), Springer</li>
 </ul>
 </details>
 

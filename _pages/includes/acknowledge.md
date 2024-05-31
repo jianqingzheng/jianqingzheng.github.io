@@ -1,6 +1,9 @@
 # <i class="fas fa-donate"></i> Funding Acknowledgement
 
 <div class="galery-logo">
+    <a href="https://www.camsoxford.ox.ac.uk/">
+	<img src='images/acknowledge/coi_logo.png' alt="sym" width="15%">
+	</a>
     <a href="https://www.kennedytrust.org/">
 	<img src='images/acknowledge/kennedy_trust_logo.png' alt="sym" width="15%">
 	</a>

@@ -12,7 +12,7 @@
 	</a>
 	<a href="https://www.phf.org.uk/our-work-in-the-uk/helen-hamlyn-trust/">
 	<img src='images/acknowledge/helen_hamlyn_logo.jpg' alt="sym" width="40%">
-	</a>~~~~
+	</a>
 </div>
 
 <br />

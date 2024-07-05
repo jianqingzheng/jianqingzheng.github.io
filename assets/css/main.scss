@@ -118,6 +118,7 @@
 .gallery-logo {
     display: flex;
     transition: transform 0.5s ease;
+    flex-wrap: nowrap; /* Prevent wrapping to ensure images stay in a row */
 }
 
 .gallery-item {
@@ -125,6 +126,7 @@
     text-align: center;
     padding: 0;
     margin: 0;
+    flex: 0 0 auto; /* Ensure flex items do not shrink or grow */
 }
 
 .gallery-item a {

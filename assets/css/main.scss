@@ -293,6 +293,7 @@ h1:before, .anchor:before {
 
 .inline-container {
     display: inline-block;
+    text-decoration: None;
     vertical-align: middle; /* Adjusts vertical alignment if elements have different heights */
     //align-items: center; /* Center items vertically */
     //gap: 0px; /* Adds space between items */

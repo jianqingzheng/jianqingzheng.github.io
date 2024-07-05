@@ -9,8 +9,6 @@
 </ul>
 </details>
 
-<br />
-
 <details>
 <summary style="cursor: pointer;">
 Session Chair
@@ -19,8 +17,6 @@ Session Chair
 <li> <a href="http://www.olsa.life/2024_Symposium/index.html"> Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a></li>
 </ul>
 </details>
-
-<br />
 
 <details>
 <summary style="cursor: pointer;">
@@ -37,8 +33,6 @@ Journal Reviewer
 <li> IEEE Signal Processing Letters (SPL)</li>
 </ul>
 </details>
-
-<br />
 
 <details>
 <summary style="cursor: pointer;">

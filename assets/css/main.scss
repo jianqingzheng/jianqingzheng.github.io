@@ -123,11 +123,12 @@
 .gallery-item a {
     //text-align: justify;
     //line-height: 0;
+    display: inline-block; /* Make <a> fit the image size */
+    line-height: 0; /* Remove extra space */
     text-decoration: none;
     overflow: hidden;
-    margin-left: 15px;
+    margin-left: 25px;
     padding: 0px;
-    //height: 200px;
     width: auto;
 }
 

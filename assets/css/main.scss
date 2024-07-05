@@ -125,14 +125,14 @@
     //line-height: 0;
     text-decoration: none;
     overflow: hidden;
-    margin: 0px;
+    margin-left: 15px;
     padding: 0px;
     //height: auto;
 }
 
 .gallery-item img {
     padding: 0;
-    margin-left: 15px;
+    margin-left: 0;
     //height: 200px;
     height: 230px;
     object-fit: contain; /* Maintain aspect ratio while fitting within the height */

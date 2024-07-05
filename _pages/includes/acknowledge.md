@@ -3,16 +3,16 @@
 <div class="gallery-container">
 <div class="gallery-logo">
     <a class="gallery-item" href="https://www.camsoxford.ox.ac.uk/">
-	<img src='images/acknowledge/coi_logo.png' alt="sym" width="12%">
+	<img src='images/acknowledge/coi_logo.png' alt="sym">
 	</a>
     <a class="gallery-item" href="https://www.kennedytrust.org/">
-	<img src='images/acknowledge/kennedy_trust_logo.png' alt="sym" width="15%">
+	<img src='images/acknowledge/kennedy_trust_logo.png' alt="sym">
 	</a>
 	<a class="gallery-item" href="https://www.some.ox.ac.uk/">
-	<img src='images/acknowledge/somerville_logo.png' alt="sym" width="10%">
+	<img src='images/acknowledge/somerville_logo.png' alt="sym" >
 	</a>
 	<a class="gallery-item" href="https://www.phf.org.uk/our-work-in-the-uk/helen-hamlyn-trust/">
-	<img src='images/acknowledge/helen_hamlyn_logo.jpg' alt="sym" width="40%">
+	<img src='images/acknowledge/helen_hamlyn_logo.jpg' alt="sym" >
 	</a>	
 </div>
 <button class="gallery-control prev">❮</button>

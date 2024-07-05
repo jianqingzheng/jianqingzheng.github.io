@@ -126,6 +126,7 @@
     text-decoration: none;
     overflow: hidden;
     margin: 0px;
+    padding: 0px;
     //height: auto;
 }
 
@@ -142,8 +143,8 @@
 .gallery-item {
     box-sizing: border-box;
     text-align: center;
-    padding: 5px;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
 }
 
 .gallery-control {

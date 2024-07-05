@@ -14,7 +14,9 @@
 [Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://doi.org/10.1016/j.media.2023.103038)
 
 <div class="inline-container">
-<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2Fres_aligner_net%2F&up_message=accessible&up_color=cyan&down_message=inaccessible&down_color=gray&label=Project%20Page&link=https%3A%2F%2Fjianqingzheng.github.io%2Fres_aligner_net%2F">
+<a href="https://jianqingzheng.github.io/res_aligner_net/">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2Fres_aligner_net%2F&up_message=accessible&up_color=darkcyan&down_message=inaccessible&down_color=gray&label=Project%20Page">
+</a>
 <a href="https://doi.org/10.1016/j.media.2023.103038"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow" alt="DOI"></a>
 <a href="https://arxiv.org/abs/2203.04290"><img src="https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg" alt="arXiv"></a>
 <a href="https://github.com/jianqingzheng/res_aligner_net"><img src="https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★" alt="code"></a>
@@ -160,6 +162,9 @@ B. Huang, **J. Q. Zheng**, A. Nguyen, C. Xu, I. Gkouzionis, K. Vyas, D. Tuch, S.
 [Deep learning-based rapid generation of broadly reactive antibodies against SARS-CoV-2 and its Omicron variant](https://www.nature.com/articles/s41422-022-00727-6)
 
 <div class="inline-container">
+<a href="https://jianqingzheng.github.io/XBCR-net/">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2FXBCR-net%2F&up_message=accessible&up_color=darkcyan&down_message=inaccessible&down_color=gray&label=Project%20Page">
+</a>
 <a href="https://www.nature.com/articles/s41422-022-00727-6"><img src="https://img.shields.io/badge/DOI-10.1038%2Fs41422--022--00727--6-darkyellow" alt="DOI"></a>
 <a href="https://github.com/jianqingzheng/XBCR-net"><img src="https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★" alt="GitHub stars"></a>
 <a href="https://colab.research.google.com/github/jianqingzheng/XBCR-net/blob/main/XBCR_net.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Explore XBCR-net in Colab"></a>

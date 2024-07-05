@@ -18,7 +18,7 @@
 <button class="gallery-control prev">❮</button>
 <button class="gallery-control next">❯</button>
 </div>
-<<script src="../../assets/js/gallery.js"></script>
+<script src="../../assets/js/gallery.js"></script>
 
 <br />
 <p style="text-align: right">

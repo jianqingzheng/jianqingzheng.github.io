@@ -108,11 +108,48 @@
 
 }
 
-.galery-logo{
+.gallery-container{
+    position: relative;
+    width: 100%;
     overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: white;
 }
-.galery-logo a{text-align:justify; line-height: 0; text-decoration: none; overflow: hidden;}
-.galery-logo a img{padding:0; margin:8px;}
+
+.gallery-logo{
+    display: flex;
+    transition: transform 0.5s ease;
+}
+.gallery-logo a{text-align:justify; line-height: 0; text-decoration: none; overflow: hidden;}
+.gallery-logo a img{padding:0; margin:8px;}
+
+.gallery-logo.gallery-item{
+    min-width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 20px;
+    //background-color: #ccc;
+    //color: #333;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.gallery-control {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+.gallery-control.prev {
+    left: 10px;
+}
+.gallery-control.next {
+    right: 10px;
+}
 
 .hfill_container {
   display: flex;

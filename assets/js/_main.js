@@ -120,3 +120,4 @@ document.querySelectorAll('.dropdown').forEach(function(dropdown) {
     }
   });
 });
+

@@ -110,7 +110,7 @@
 
 .gallery-container {
     position: relative;
-    width: 100%;
+    //width: 100%;
     overflow: hidden;
     background-color: white;
 }
@@ -132,7 +132,8 @@
     line-height: 0; /* Remove extra space */
     text-decoration: none;
     overflow: hidden;
-    margin: 0; /* Remove margin */
+    margin-left: 15px;
+    //margin: 0; /* Remove margin */
     padding: 0; /* Remove padding */
     width: auto;
     height: auto;

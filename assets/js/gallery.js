@@ -20,7 +20,19 @@ nextButton.addEventListener('click', () => {
     updateGallery();
 });
 
-// Auto slide functionality (optional)
-setInterval(() => {
+// Auto slide functionality (recursive sliding)
+const autoSlideInterval = 3000; // Change slides every 3 seconds
+let autoSlide = setInterval(() => {
     nextButton.click();
-}, 3000); // Change slides every 3 seconds
+}, autoSlideInterval);
+
+// Pause auto slide on mouse enter, resume on mouse leave
+document.querySelector('.gallery-container').addEventListener('mouseenter', () => {
+    clearInterval(autoSlide);
+});
+
+document.querySelector('.gallery-container').addEventListener('mouseleave', () => {
+    autoSlide = setInterval(() => {
+        nextButton.click();
+    }, autoSlideInterval);
+});

@@ -127,12 +127,13 @@
     line-height: 0; /* Remove extra space */
     text-decoration: none;
     overflow: hidden;
-    margin-left: 25px;
+    margin-left: 15px;
     padding: 0px;
     width: auto;
 }
 
 .gallery-item img {
+    display: block; /* Make sure the image is displayed as a block */
     padding: 0;
     margin-left: 0;
     //height: 200px;

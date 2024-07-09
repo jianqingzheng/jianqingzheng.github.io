@@ -12,7 +12,7 @@
 			list-style-type: none;
 			width: auto; 
 			padding: 10px;
-			height: 200px; 
+			height: 280px; 
 			overflow: auto; 
 		}
 		ul.events li {

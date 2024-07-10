@@ -19,15 +19,6 @@ ___
 ---
 {% include_relative includes/pubs.md %}
 
-
-___
----
-{% include_relative includes/awards.md %}
-
-___
----
-{% include_relative includes/education.md %}
-
 ___
 ---
 {% include_relative includes/talks.md %}

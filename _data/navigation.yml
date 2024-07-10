@@ -8,13 +8,15 @@ main:
 
   - title: "Publications"
 #    url: "/#-selected-publications-google-scholar"
-    url: "/#-selected-publications"
+#    url: "/#-selected-publications"
+    url: "/#-selected-research-projects"
 
-  - title: "Awards"
-    url: "/#-honors--awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+#    - title: "Awards"
+#    url: "/#-honors--awards"
+
+#  - title: "Educations"
+#    url: "/#-educations"
 
   - title: "Talks"
     url: "/#-talks"

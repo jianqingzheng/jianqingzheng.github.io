@@ -8,7 +8,7 @@
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Preprint</div>
-<img src='images/pubs/DRDM-graphic_abstract.png' alt="sym" width="100%" title="The graphic abstract of Deformation-Recovery Diffusion Model.">
+<img src='images/pubs/DRDM-graphic_abstract.png' alt="sym" width="100%" title="The graphic abstract of Deformation-Recovery Diffusion Model."></div>
 <div class='paper-box-text' markdown="1">
 [Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis](https://doi.org/10.48550/arXiv.2407.07295)
 

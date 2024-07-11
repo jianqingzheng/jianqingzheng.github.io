@@ -7,6 +7,34 @@
 ## a. Biomedical Data Analysis
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Preprint</div>
+<img src='images/pubs/DRDM-graphic_abstract.png' alt="sym" width="100%" title="The graphic abstract of Deformation-Recovery Diffusion Model.">
+<div class='paper-box-text' markdown="1">
+[Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis](https://doi.org/10.48550/arXiv.2407.07295)
+
+<div class="inline-container">
+<a href="https://jianqingzheng.github.io/def_diff_rec/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2Fdef_diff_rec%2F&up_message=accessible&up_color=darkcyan&down_message=inaccessible&down_color=darkgray&label=Project%20Page"></a>
+<a href="https://doi.org/10.48550/arXiv.2407.07295"><img src="https://img.shields.io/badge/arXiv-2407.07295-b31b1b.svg" alt="arXiv"></a>
+</div>
+
+**J. Q. Zheng**<abbr title="equal contribution">†</abbr>, Y. Mo<abbr title="equal contribution">†</abbr>, Y. Sun, J. Li, F. Wu, Z. Wang, T. Vincent, B. W. Papiez
+
+- This is the **first study** to explore diverse deformation generation for one specific image without an atlas image.
+
+<div class="small-box">
+<ul>
+	<li>- A novel diffusion model is proposed based on deformation diffusion and recovery. </li>
+	<li>- The model generates diverse and realistic deformation for each instance image. </li>
+	<li>- A random and reasonable deformation field sampling method is proposed for training. </li>
+	<li>- The model enables and improves data augmentation in few-shot segmentation.</li>
+	<li>- The model enables and improves data synthesis for registration model training. </li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Med Image Anal (IF:13.8)</div>
 <img src='images/pubs/RAN-graphic_abstract.jpg' alt="sym" width="100%" title="The graphic abstract of Residual Aligner Network.">
 <img src='images/pubs/deformable_reg.gif' alt="sym" width="100%" title="An examplar deformable registration result"></div></div>
@@ -14,9 +42,7 @@
 [Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://doi.org/10.1016/j.media.2023.103038)
 
 <div class="inline-container">
-<a href="https://jianqingzheng.github.io/res_aligner_net/">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2Fres_aligner_net%2F&up_message=accessible&up_color=darkcyan&down_message=inaccessible&down_color=darkgray&label=Project%20Page">
-</a>
+<a href="https://jianqingzheng.github.io/res_aligner_net/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2Fres_aligner_net%2F&up_message=accessible&up_color=darkcyan&down_message=inaccessible&down_color=darkgray&label=Project%20Page"></a>
 <a href="https://doi.org/10.1016/j.media.2023.103038"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.media.2023.103038-darkyellow" alt="DOI"></a>
 <a href="https://arxiv.org/abs/2203.04290"><img src="https://img.shields.io/badge/arXiv-2203.04290-b31b1b.svg" alt="arXiv"></a>
 <a href="https://github.com/jianqingzheng/res_aligner_net"><img src="https://img.shields.io/github/stars/jianqingzheng/res_aligner_net?style=social&label=Code+★" alt="code"></a>

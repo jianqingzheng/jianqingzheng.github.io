@@ -8,7 +8,8 @@
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Preprint</div>
-<img src='images/pubs/DRDM-graphic_abstract.png' alt="sym" width="100%" title="The graphic abstract of Deformation-Recovery Diffusion Model."></div>
+<img src='images/pubs/DRDM-graphic_abstract.png' alt="sym" width="100%" title="The graphic abstract of Deformation-Recovery Diffusion Model.">
+</div></div>
 <div class='paper-box-text' markdown="1">
 [Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis](https://doi.org/10.48550/arXiv.2407.07295)
 
@@ -37,7 +38,8 @@
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Med Image Anal (IF:13.8)</div>
 <img src='images/pubs/RAN-graphic_abstract.jpg' alt="sym" width="100%" title="The graphic abstract of Residual Aligner Network.">
-<img src='images/pubs/deformable_reg.gif' alt="sym" width="100%" title="An examplar deformable registration result"></div></div>
+<img src='images/pubs/deformable_reg.gif' alt="sym" width="100%" title="An examplar deformable registration result">
+</div></div>
 <div class='paper-box-text' markdown="1">
 [Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://doi.org/10.1016/j.media.2023.103038)
 

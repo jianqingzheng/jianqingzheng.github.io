@@ -9,7 +9,7 @@
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Preprint</div>
 <img src='images/pubs/DRDM-graphic_abstract.png' alt="sym" width="100%" title="The graphic abstract of Deformation-Recovery Diffusion Model.">
-<img src='images/pubs/drdm_demo.gif' alt="sym" width="100%" title="An examplar DRDM result">
+<img src='images/pubs/drdm_demo.gif' loading="lazy" alt="sym" width="100%" title="An examplar DRDM result">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis](https://doi.org/10.48550/arXiv.2407.07295)
@@ -40,7 +40,7 @@
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Med Image Anal (IF:13.8)</div>
 <img src='images/pubs/RAN-graphic_abstract.jpg' alt="sym" width="100%" title="The graphic abstract of Residual Aligner Network.">
-<img src='images/pubs/deformable_reg.gif' alt="sym" width="100%" title="An examplar deformable registration result">
+<img src='images/pubs/deformable_reg.gif' loading="lazy" alt="sym" width="100%" title="An examplar deformable registration result">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://doi.org/10.1016/j.media.2023.103038)
@@ -109,8 +109,8 @@
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICRA 2020</div>
-<img src='images/pubs/125.gif' alt="sym" width="49%" title="The dilation setting (1,2,5...) in DeepLab results in a smaller receptive field even though with more layers.">
-<img src='images/pubs/139.gif' id="acnn_rf" alt="sym" width="49%" title="Our dilation setting (1,3,9...) in ACNN results in a larger receptive field with fewer layers."></div></div>
+<img src='images/pubs/125.gif' loading="lazy" alt="sym" width="49%" title="The dilation setting (1,2,5...) in DeepLab results in a smaller receptive field even though with more layers.">
+<img src='images/pubs/139.gif' loading="lazy" id="acnn_rf" alt="sym" width="49%" title="Our dilation setting (1,3,9...) in ACNN results in a larger receptive field with fewer layers."></div></div>
 <div class='paper-box-text' markdown="1">
 [ACNN: a Full Resolution DCNN for Medical Image Segmentation](https://doi.org/10.1109/ICRA40945.2020.9197328)
 
@@ -136,8 +136,8 @@ X. Y. Zhou<abbr title="equal contribution">†</abbr>, **J. Q. Zheng**<abbr titl
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICRA 2019</div>
-<img src='images/pubs/demo-recover.gif' alt="sym" width="50%" title="The 3D abdominal aortic center line recovered from one 2D X-ray image.">
-<img src='images/pubs/demo-visual.gif' alt="sym" width="48%" title="How it looks like when a catheter moves along the recovered center line of aorta."></div></div>
+<img src='images/pubs/demo-recover.gif' loading="lazy" alt="sym" width="50%" title="The 3D abdominal aortic center line recovered from one 2D X-ray image.">
+<img src='images/pubs/demo-visual.gif' loading="lazy" alt="sym" width="48%" title="How it looks like when a catheter moves along the recovered center line of aorta."></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards 3D Path Planning from a Single 2D Fluoroscopic Image for Fenestrated Endovascular Aortic Repair](https://ieeexplore.ieee.org/abstract/document/8793918)
 

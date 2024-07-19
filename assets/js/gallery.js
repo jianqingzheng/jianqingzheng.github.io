@@ -32,7 +32,9 @@ document.querySelector('.gallery-container').addEventListener('mouseenter', () =
 });
 
 document.querySelector('.gallery-container').addEventListener('mouseleave', () => {
-    autoSlide = setInterval(() => {
-        nextButton.click();
-    }, autoSlideInterval);
+    if (!isIframeOpen) { // Only resume auto slide if iframe is not open
+        autoSlide = setInterval(() => {
+            nextButton.click();
+        }, autoSlideInterval);
+    }
 });

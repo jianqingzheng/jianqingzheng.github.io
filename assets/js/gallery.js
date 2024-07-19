@@ -22,20 +22,20 @@ nextButton.addEventListener('click', () => {
 
 // Auto slide functionality (recursive sliding)
 const autoSlideInterval = 3000; // Change slides every 3 seconds
-if (!isIframeOpen) { // Only resume auto slide if iframe is not open
-    let autoSlide = setInterval(() => {
-        nextButton.click();
-    }, autoSlideInterval);
-}
+
+let autoSlide = setInterval(() => {
+    currentIndex = (currentIndex < items.length - 1) ? currentIndex + 1 : 0;
+    updateGallery();
+}, autoSlideInterval);
+
 // Pause auto slide on mouse enter, resume on mouse leave
 document.querySelector('.gallery-container').addEventListener('mouseenter', () => {
     clearInterval(autoSlide);
 });
 
 document.querySelector('.gallery-container').addEventListener('mouseleave', () => {
-    if (!isIframeOpen) { // Only resume auto slide if iframe is not open
-        autoSlide = setInterval(() => {
-            nextButton.click();
-        }, autoSlideInterval);
-    }
+    autoSlide = setInterval(() => {
+        currentIndex = (currentIndex < items.length - 1) ? currentIndex + 1 : 0;
+        updateGallery();
+    }, autoSlideInterval);
 });

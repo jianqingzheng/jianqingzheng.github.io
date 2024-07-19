@@ -12,7 +12,7 @@
 <img src='images/pubs/drdm_demo.gif' loading="lazy" alt="sym" width="100%" title="An examplar DRDM result">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis](https://doi.org/10.48550/arXiv.2407.07295)
+[Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis](https://jianqingzheng.github.io/def_diff_rec/)
 
 <div class="inline-container">
 <a href="https://jianqingzheng.github.io/def_diff_rec/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2Fdef_diff_rec%2F&up_message=accessible&up_color=darkcyan&down_message=inaccessible&down_color=darkgray&label=Project%20Page"></a>
@@ -43,7 +43,7 @@
 <img src='images/pubs/deformable_reg.gif' loading="lazy" alt="sym" width="100%" title="An examplar deformable registration result">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://doi.org/10.1016/j.media.2023.103038)
+[Residual Aligner-based Network (RAN): Motion-Separable Structure for Coarse-to-fine Discontinuous Deformable Registration](https://jianqingzheng.github.io/res_aligner_net/)
 
 <div class="inline-container">
 <a href="https://jianqingzheng.github.io/res_aligner_net/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2Fres_aligner_net%2F&up_message=accessible&up_color=darkcyan&down_message=inaccessible&down_color=darkgray&label=Project%20Page"></a>

@@ -22,6 +22,8 @@
 
 
 <script type="text/javascript">
+    let isIframeOpen = false;
+
     document.addEventListener('click', function(event) {
         var fold_content = document.getElementById('fold_content');
         var isClickInside = fold_content.contains(event.target) || event.target.closest('#title');
@@ -46,6 +48,7 @@
         }
         event.stopPropagation();
     }
+
     document.getElementById('title').addEventListener('click', onTileClick);
 </script>
 

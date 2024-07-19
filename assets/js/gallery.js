@@ -22,10 +22,11 @@ nextButton.addEventListener('click', () => {
 
 // Auto slide functionality (recursive sliding)
 const autoSlideInterval = 3000; // Change slides every 3 seconds
-let autoSlide = setInterval(() => {
-    nextButton.click();
-}, autoSlideInterval);
-
+if (!isIframeOpen) { // Only resume auto slide if iframe is not open
+    let autoSlide = setInterval(() => {
+        nextButton.click();
+    }, autoSlideInterval);
+}
 // Pause auto slide on mouse enter, resume on mouse leave
 document.querySelector('.gallery-container').addEventListener('mouseenter', () => {
     clearInterval(autoSlide);

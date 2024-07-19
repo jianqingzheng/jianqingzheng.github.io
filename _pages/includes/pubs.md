@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 
-<h1 id="-publications"><i class="fas fa-brain fa-spin"></i> Selected Research Projects<div style="float:right;"> <a href="https://scholar.google.co.uk/citations?user=2bNsYR0AAAAJ"><i class="fas fa-graduation-cap"></i></a> </div></h1>
+<h1 id="-publications"><i class="fas fa-brain fa-spin"></i> Selected Research Projects<div style="float:right;"> [<a href="https://scholar.google.co.uk/citations?user=2bNsYR0AAAAJ"><i class="fas fa-graduation-cap"></i></a>] </div></h1>
 
 ## a. Biomedical Data Analysis
 

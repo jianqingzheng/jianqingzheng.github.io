@@ -23,13 +23,14 @@
 
 <script type="text/javascript">
     document.addEventListener('click', function(event) {
-        var fold_content = document.getElementById('fold_content');
-        var isClickInside = fold_content.contains(event.target);
-
-        if (!isClickInside) {
-          fold_content.style.height = '0';
-          fold_content.style.zIndex = '0'; // Lower the z-index when folded
-        }
+        setTimeout(function() {
+            var fold_content = document.getElementById('fold_content');
+            var isClickInside = fold_content.contains(event.target);
+            if (!isClickInside) {
+                fold_content.style.height = '0';
+                fold_content.style.zIndex = '0'; // Lower the z-index when folded
+            }
+        }, 100); // Delay of 100 milliseconds
     });
     function onTileClick(event) {
         var fold_content = document.getElementById("fold_content");

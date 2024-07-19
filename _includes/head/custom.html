@@ -23,20 +23,19 @@
 
 <script type="text/javascript">
     document.addEventListener('click', function(event) {
-        setTimeout(function() {
+        if (!isInsideClick) {
             var fold_content = document.getElementById('fold_content');
-            var isClickInside = fold_content.contains(event.target);
-            if (!isClickInside) {
-                fold_content.style.height = '0';
-                fold_content.style.zIndex = '0'; // Lower the z-index when folded
-            }
-        }, 100); // Delay of 100 milliseconds
+            fold_content.style.height = '0';
+            fold_content.style.zIndex = '0'; // Lower the z-index when folded
+        }
+        isInsideClick = false; // Reset the flag
     });
     function onTileClick(event) {
         var fold_content = document.getElementById("fold_content");
         // fold_content.style.height = fold_content.offsetHeight === 450 ? 0 + 'px' : 600 + 'px';
         fold_content.style.height = fold_content.offsetHeight === 0 ? '400px' : '0';
-        // fold_content.style.zIndex = 2147483647;
+        fold_content.style.zIndex = fold_content.offsetHeight === 0 ? '0' : '2147483647';
+        isInsideClick = true; // Set the flag to true
         event.stopPropagation();
     }
 </script>

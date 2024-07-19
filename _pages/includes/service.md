@@ -1,7 +1,7 @@
 # <i class="fas fa-atom fa-spin"></i> Academic Services
 <details>
 <summary style="cursor: pointer;">
- Co-organizer 
+<b>Co-organizer </b>
 </summary>
 <ul>
 <li> the 26th Annual Conference of the Chinese Life Scientist Society in the UK (promoted by <a href="https://mp.weixin.qq.com/s/8d-RoazDrkko_1zUZUOuqg">CLSS-UK</a>)</li>
@@ -11,7 +11,7 @@
 
 <details>
 <summary style="cursor: pointer;">
-Session Chair
+<b>Session Chair</b>
 </summary>
 <ul>
 <li> <a href="http://www.olsa.life/2024_Symposium/index.html"> Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a></li>
@@ -20,7 +20,7 @@ Session Chair
 
 <details>
 <summary style="cursor: pointer;">
-Journal Reviewer 
+<b>Journal Reviewer </b>
 </summary>
 <ul>
 <li> Pattern Recognition (PR), Elsevier</li>
@@ -36,7 +36,7 @@ Journal Reviewer
 
 <details>
 <summary style="cursor: pointer;">
-Conference Reviewer 
+<b>Conference Reviewer </b>
 </summary>
 <ul>
 <li> International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021, Springer</li>

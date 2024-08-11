@@ -15,7 +15,7 @@ Prior to this, I obtained a DPhil degree at the <a href='https://www.kennedy.ox.
 a MRes degree at the <a href='https://www.imperial.ac.uk/hamlyn-centre'>Hamlyn Center for Robotic Surgery</a>, Imperial College London, under the supervision of <a href='https://imr.sjtu.edu.cn/en/ab_lead/210.html'>Prof. Guang-Zhong Yang</a>, 
 and a BEng degree at University of Liverpool, with my final year project supervised by <a href='https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/lin-jiang/'>Dr. Lin Jiang</a> and my second year project supervised by <a href='https://gr.xjtu.edu.cn/web/shusenyang'>Prof. Shusen Yang</a>.
 <br>
-My current research interests are in <abbr title="Biomed_Analy">biomedical data analysis</abbr>, <abbr title="Surg_Navig">surgical navigation</abbr> and <abbr title="Comput_Bio">computational biology</abbr>, with an emphasis on the computational models and machine learning approaches. 
+My current research interests are in <b>AI for Biomedicine</b>, including <abbr title="Biomed_Analy">biomedical data analysis</abbr>, <abbr title="Surg_Navig">surgical navigation</abbr> and <abbr title="Comput_Bio">computational biology</abbr>, with an emphasis on the computational models and machine learning approaches. 
 <i class="fas fa-quote-right fa-2x fa-pull-right fa-border" aria-hidden="true"></i>
 </p>
 

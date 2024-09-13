@@ -18,6 +18,7 @@
 <a href="https://jianqingzheng.github.io/def_diff_rec/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2Fdef_diff_rec%2F&up_message=online&up_color=darkcyan&down_message=offline&down_color=darkgray&label=Project%20Page"></a>
 <a href="https://doi.org/10.48550/arXiv.2407.07295"><img src="https://img.shields.io/badge/arXiv-2407.07295-b31b1b.svg" alt="arXiv"></a>
 <a href="https://github.com/jianqingzheng/def_diff_rec"><img src="https://img.shields.io/github/stars/jianqingzheng/def_diff_rec?style=social&label=Code+★" alt="code"></a>
+<a href="https://colab.research.google.com/github/jianqingzheng/def_diff_rec/blob/main/def_diff_rec.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 </div>
 
 **J. Q. Zheng**<abbr title="equal contribution">†</abbr>, Y. Mo<abbr title="equal contribution">†</abbr>, Y. Sun, J. Li, F. Wu, Z. Wang, T. Vincent, B. W. Papiez

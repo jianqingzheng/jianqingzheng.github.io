@@ -56,6 +56,7 @@
 <body>
 <div class="bottom_box" >
 	<ul class="events">
+		<li data-date="2025/04">: <code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One journal paper is accepted by <abbr title="impact factor: 4.6"><i>IEEE Robotics and Automation Letters</i></abbr> with the released <a href="https://github.com/kaichen-z/Manydepth2"><img src="https://img.shields.io/github/stars/kaichen-z/Manydepth2?style=social&label=Code+★" /></a>.</li>
 		<li data-date="2024/05">: <code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One journal paper is accepted by <abbr title="impact factor: 13.8 (Q1)"><i>Medical Image Analysis</i></abbr>.</li>
 		<li data-date="2024/03">: <code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One journal paper is accepted by <abbr title="impact factor: 5.4 (Q1)"><i>IEEE Trans on Signal Processing</i></abbr>.</li>
 		<li data-date="2024/03">: <a href="http://www.olsa.life/2024_Symposium/index.html">Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a> will be held on Thursday, 7th March 2024, at Oxford.</li>

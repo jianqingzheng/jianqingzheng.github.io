@@ -41,10 +41,11 @@
 <ul>
 <li> International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2021, Springer</li>
 <li> Annual Conference on Medical Image Understanding and Analysis (MIUA) 2022, Springer</li>
+<li> European Conference on Computer Vision (ECCV) 2022/2024, Springer</li>
 <li> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</li>
 <li> IEEE/CVF International Conference on Computer Vision (ICCV) 2025</li>
-<li> IEEE International Conference on Robotic and Automation (ICRA) 2019/2025</li>
-<li> European Conference on Computer Vision (ECCV) 2022/2024, Springer</li>
+<li> IEEE International Conference on Robotics and Automation (ICRA) 2019/2025</li>
+<li> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</li>
 <li> UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2019</li>
 </ul>
 </details>

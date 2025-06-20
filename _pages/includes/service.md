@@ -1,4 +1,14 @@
 # <i class="fas fa-atom fa-spin"></i> Academic Services
+
+<details>
+<summary style="cursor: pointer;">
+<b>Editorial Board </b>
+</summary>
+<ul>
+<li> Frontiers of Medicine, Springer (Young Editor)</li>
+</ul>
+</details>
+
 <details>
 <summary style="cursor: pointer;">
 <b>Co-organizer </b>

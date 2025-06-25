@@ -9,6 +9,8 @@
 </ul>
 </details>
 
+<br />
+
 <details>
 <summary style="cursor: pointer;">
 <b>Co-organizer </b>

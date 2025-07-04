@@ -5,7 +5,7 @@
 <b>Editorial Board </b>
 </summary>
 <ul>
-<li> <a href="https://link.springer.com/journal/11684">Frontiers of Medicine, Springer</a> (Young Member)</li>
+<li> <a href="https://link.springer.com/journal/11684">Frontiers of Medicine, Springer</a> (Youth Editor)</li>
 </ul>
 </details>
 

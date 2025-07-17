@@ -57,10 +57,10 @@
 <div class="bottom_box" >
 	<ul class="events">
 		<li data-date="2025/06">: 
-		Honored to be recognized as <b>Outstanding Reviewer</b> at <abbr title="IEEE/CVF Conference on Computer Vision and Pattern Recognition"><i>CVPR 2025</i></abbr>.
+		Honored to be recognized as an <b>Outstanding Reviewer</b> at <abbr title="IEEE/CVF Conference on Computer Vision and Pattern Recognition"><i>CVPR 2025</i></abbr>.
 		</li>
 		<li data-date="2025/04">: 
-		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One journal paper is accepted to <abbr title="impact factor: 4.6 (Q1)"><i>IEEE Robotics and Automation Letters</i></abbr> with the released <a href="https://github.com/kaichen-z/Manydepth2"><img src="https://img.shields.io/github/stars/kaichen-z/Manydepth2?style=social&label=Code+★" /></a>.
+		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One journal paper is accepted to <abbr title="impact factor: 5.3 (Q1)"><i>IEEE Robotics and Automation Letters</i></abbr> with the released <a href="https://github.com/kaichen-z/Manydepth2"><img src="https://img.shields.io/github/stars/kaichen-z/Manydepth2?style=social&label=Code+★" /></a>.
 		</li>
 		<li data-date="2024/05">: 
 		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One journal paper is accepted to <abbr title="impact factor: 13.8 (Q1)"><i>Medical Image Analysis</i></abbr>.</li>

@@ -5,7 +5,8 @@
 <b>Editorial Board </b>
 </summary>
 <ul>
-<li> <a href="https://link.springer.com/journal/11684">Frontiers of Medicine, Springer</a> (Youth Editor)</li>
+<li> <a href="https://journals.plos.org/digitalhealth/">PLOS Digital Health</a>, Public Library of Science</li>
+<li> <a href="https://link.springer.com/journal/11684">Frontiers of Medicine</a>, Springer</li>
 </ul>
 </details>
 

@@ -56,6 +56,12 @@
 <body>
 <div class="bottom_box" >
 	<ul class="events">
+		<li data-date="2025/07">: 
+		Honored to join the <b>Editorial Board</b> of <abbr title="impact factor: 7.7 (Q1)"><i>PLOS Digital Health</i></abbr>, Public Library of Science.
+        </li>
+		<li data-date="2025/06">: 
+		Honored to join the <b>Editorial Board</b> of <abbr title="impact factor: 3.9 (Q1)"><i>Frontiers of Medicine</i></abbr>, Springer Nature.
+        </li>
 		<li data-date="2025/06">: 
 		Honored to be recognized as an <b>Outstanding Reviewer</b> at <abbr title="IEEE/CVF Conference on Computer Vision and Pattern Recognition"><i>CVPR 2025</i></abbr>.
 		</li>

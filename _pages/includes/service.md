@@ -44,6 +44,7 @@
 <li> International Journal of Computer Vision (IJCV), Springer</li>
 <li> Journal of Imaging Informatics in Medicine / Journal of Digital Imaging (JDIM), Springer</li>
 <li> IEEE Transactions on Image Processing (TIP)</li>
+<li> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
 <li> IEEE Transactions on Robotics (T-RO)</li>
 <li> IEEE Robotics and Automation Letters (RA-L)</li>
 <li> IEEE Signal Processing Letters (SPL)</li>

@@ -8,9 +8,9 @@
 <li> 
     <a href="https://journals.plos.org/digitalhealth/" title="impact factor: 7.7 (Q1)">PLOS Digital Health</a>, Public Library of Science
 </li>
-<!-- <li> 
+<li> 
     <a href="https://link.springer.com/journal/11684" title="impact factor: 3.9 (Q1)">Frontiers of Medicine</a>, Springer Nature
-</li> -->
+</li>
 </ul>
 </details>
 

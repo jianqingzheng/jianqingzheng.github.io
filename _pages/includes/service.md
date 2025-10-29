@@ -48,6 +48,7 @@
 <li> IEEE Transactions on Robotics (T-RO)</li>
 <li> IEEE Robotics and Automation Letters (RA-L)</li>
 <li> IEEE Signal Processing Letters (SPL)</li>
+<li> PLOS Digital Health, Public Library of Science (PLoS)</li>
 </ul>
 </details>
 

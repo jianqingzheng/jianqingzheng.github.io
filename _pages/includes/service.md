@@ -9,7 +9,7 @@
     <a href="https://journals.plos.org/digitalhealth/" title="impact factor: 7.7 (Q1)">PLOS Digital Health</a>, Public Library of Science
 </li>
 <li> 
-    <a href="https://link.springer.com/journal/11684" title="impact factor: 3.9 (Q1)">Frontiers of Medicine</a>, Springer Nature
+    <a href="https://link.springer.com/journal/11684" title="impact factor: 3.9 (Q1)">Frontiers of Medicine / MedScience</a>, Springer Nature
 </li>
 </ul>
 </details>
@@ -43,6 +43,7 @@
 <li> Computer Methods and Programs in Biomedicine (CMPB), Elsevier</li>
 <li> International Journal of Computer Vision (IJCV), Springer</li>
 <li> Journal of Imaging Informatics in Medicine / Journal of Digital Imaging (JDIM), Springer</li>
+<li> Frontiers of Medicine / MedScience, Springer Nature</li>
 <li> IEEE Transactions on Image Processing (TIP)</li>
 <li> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
 <li> IEEE Transactions on Robotics (T-RO)</li>

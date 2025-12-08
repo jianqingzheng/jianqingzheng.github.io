@@ -38,6 +38,7 @@
 <b>Journal Reviewer </b>
 </summary>
 <ul>
+<li> Medical Image Analysis (MedIA), Elsevier</li>
 <li> Pattern Recognition (PR), Elsevier</li>
 <li> Artificial Intelligence in Medicine (AIIM), Elsevier</li>
 <li> Computer Methods and Programs in Biomedicine (CMPB), Elsevier</li>

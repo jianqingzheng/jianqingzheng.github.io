@@ -70,7 +70,7 @@
 		</li>
 		<li data-date="2024/05">: 
 		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One journal paper accepted by <abbr title="impact factor: 13.8 (Q1)"><i>Medical Image Analysis</i></abbr>.</li>
-		<li data-date="2024/03">: <code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One journal paper is accepted to <abbr title="impact factor: 5.4 (Q1)"><i>IEEE Trans on Signal Processing</i></abbr>.
+		<li data-date="2024/03">: <code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One journal paper accepted by <abbr title="impact factor: 5.4 (Q1)"><i>IEEE Trans on Signal Processing</i></abbr>.
 		</li>
 		<li data-date="2024/03">: 
 		<a href="http://www.olsa.life/2024_Symposium/index.html">Oxford Life Science Alliance (OLSA) Annual Symposium 2024</a> is held on Thursday, 7th March 2024, at Oxford.

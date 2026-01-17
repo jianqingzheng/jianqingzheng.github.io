@@ -86,13 +86,13 @@
 		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One journal paper accepted by <abbr title="impact factor: 7.4 (Q1)"><i>Computerized Medical Imaging and Graphics</i></abbr>.
 		</li>
 		<li data-date="2022/09">: 
-		<code><i class="fas fa-dna white-icon"></i> Comput_Bio</code> One journal paper accepted by <abbr title="impact factor: 46.3 (Q1)"><i>Cell Research </i></abbr> with the released <a href="https://github.com/jianqingzheng/XBCR-net"><img src="https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★" /></a> <a href="https://colab.research.google.com/github/jianqingzheng/XBCR-net/blob/main/XBCR_net.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>.
+		<code><i class="fas fa-dna white-icon"></i> Comput_Bio</code> One journal paper accepted by <abbr title="impact factor: 46.3 (Q1)"><i>Cell Research </i></abbr> with <a href="https://github.com/jianqingzheng/XBCR-net"><img src="https://img.shields.io/github/stars/jianqingzheng/XBCR-net?style=social&label=Code+★" /></a> <a href="https://colab.research.google.com/github/jianqingzheng/XBCR-net/blob/main/XBCR_net.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>.
 		</li>
 		<li data-date="2022/07">: 
 		A 20-min oral presentation entitled <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_6">"Recursive Deformable Image Registration Network with Mutual Attention"</a> is given at MIUA 2022 in Cambridge.
 		</li>
 		<li data-date="2022/06">: 
-		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One conference paper accepted by <abbr title="International Conference on Medical Image Computing and Computer Assisted Intervention"><i>MICCAI 2022</i></abbr> with the released <a href="https://github.com/br0202/M3Depth"><img src="https://img.shields.io/github/stars/br0202/M3Depth?style=social&label=Technique Code+★" /></a>  <a href="https://github.com/br0202/SL-Decoder"><img src="https://img.shields.io/github/stars/br0202/SL-Decoder?style=social&label=Data+★" /></a>.
+		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One conference paper accepted by <abbr title="International Conference on Medical Image Computing and Computer Assisted Intervention"><i>MICCAI 2022</i></abbr> with <a href="https://github.com/br0202/M3Depth"><img src="https://img.shields.io/github/stars/br0202/M3Depth?style=social&label=Technique Code+★" /></a>  <a href="https://github.com/br0202/SL-Decoder"><img src="https://img.shields.io/github/stars/br0202/SL-Decoder?style=social&label=Data+★" /></a>.
 		</li>
 		<li data-date="2022/05">: 
 		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> Two conference papers accepted by <abbr title="Medical Image Understanding and Analysis conference"><i>MIUA 2022</i></abbr>, one oral presentation and one poster session.

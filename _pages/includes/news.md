@@ -57,7 +57,7 @@
 <div class="bottom_box" >
 	<ul class="events">
 		<li data-date="2026/01">: 
-		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One conference paper accepted by <abbr title="IEEE International Conference on Acoustics, Speech, and Signal Processing"><i>IEEE ICASSP</i></abbr> with <a href="https://github.com/ziyangwang007/VMambaMorph"><img src="https://img.shields.io/github/stars/ziyangwang007/VMambaMorph?style=social&label=Code+★" /></a>.
+		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One conference paper accepted by <abbr title="IEEE International Conference on Acoustics, Speech, and Signal Processing"><i>IEEE ICASSP 2026</i></abbr> with <a href="https://github.com/ziyangwang007/VMambaMorph"><img src="https://img.shields.io/github/stars/ziyangwang007/VMambaMorph?style=social&label=Code+★" /></a>.
 		</li>
 		<li data-date="2025/07">: 
 		Honored to join the <b>Editorial Board</b> of <abbr title="impact factor: 7.7 (Q1)"><i>PLOS Digital Health</i></abbr>, Public Library of Science.
@@ -66,7 +66,7 @@
 		Honored to join the <b>Editorial Board</b> of <abbr title="impact factor: 3.9 (Q1)"><i>Frontiers of Medicine / MedScience</i></abbr>, Springer Nature.
         </li>
 		<li data-date="2025/06">: 
-		Honored to be recognized as an <b>Outstanding Reviewer</b> at <abbr title="IEEE/CVF Conference on Computer Vision and Pattern Recognition"><i>CVPR 2025</i></abbr>.
+		Honored to be recognized as an <b>Outstanding Reviewer</b> at <abbr title="IEEE/CVF Conference on Computer Vision and Pattern Recognition"><i>IEEE/CVF CVPR 2025</i></abbr>.
 		</li>
 		<li data-date="2025/04">: 
 		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One journal paper accepted by <abbr title="impact factor: 5.3 (Q1)"><i>IEEE Robotics and Automation Letters</i></abbr> with <a href="https://github.com/kaichen-z/Manydepth2"><img src="https://img.shields.io/github/stars/kaichen-z/Manydepth2?style=social&label=Code+★" /></a>.

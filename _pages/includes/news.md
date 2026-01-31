@@ -57,7 +57,7 @@
 <div class="bottom_box" >
 	<ul class="events">
 		<li data-date="2026/01">: 
-		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One conference paper accepted by <abbr title="IEEE International Conference on Robotics and Automation"><i>IEEE ICRA 2026</i></abbr>.
+		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> Two conference paper accepted by <abbr title="IEEE International Conference on Robotics and Automation"><i>IEEE ICRA 2026</i></abbr>.
 		</li>
 		<li data-date="2026/01">: 
 		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One conference paper accepted by <abbr title="IEEE International Conference on Acoustics, Speech, and Signal Processing"><i>IEEE ICASSP 2026</i></abbr> with <a href="https://github.com/ziyangwang007/VMambaMorph"><img src="https://img.shields.io/github/stars/ziyangwang007/VMambaMorph?style=social&label=Code+★" /></a>.

@@ -7,7 +7,7 @@
 ## a. Biomedical Data Analysis
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Preprint</div>
+<div class='paper-box-image'><div><div class="badge">Med Image Anal (IF:13.8)</div>
 <img src='images/pubs/DRDM-graphic_abstract.png' alt="sym" width="100%" title="The graphic abstract of Deformation-Recovery Diffusion Model.">
 <img src='images/pubs/drdm_demo.gif' loading="lazy" alt="sym" width="100%" title="An examplar DRDM result">
 </div></div>

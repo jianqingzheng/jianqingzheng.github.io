@@ -60,7 +60,7 @@
 		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One journal paper accepted by <abbr title="impact factor: 13.8 (Q1)"><i>Medical Image Analysis</i></abbr> with <a href="https://jianqingzheng.github.io/def_diff_rec/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjianqingzheng.github.io%2Fdef_diff_rec%2F&up_message=online&up_color=darkcyan&down_message=offline&down_color=darkgray&label=Project%20Page"></a> <a href="https://github.com/jianqingzheng/def_diff_rec"><img src="https://img.shields.io/github/stars/jianqingzheng/def_diff_rec?style=social&label=Code+★" alt="code"></a>  <a href="https://colab.research.google.com/github/jianqingzheng/def_diff_rec/blob/main/def_diff_rec.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>.
 		</li>
 		<li data-date="2026/01">: 
-		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> Two conference papers accepted by <abbr title="IEEE International Conference on Robotics and Automation"><i>IEEE ICRA 2026</i></abbr>.
+		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> Two conference papers accepted by <abbr title="IEEE International Conference on Robotics and Automation"><i>IEEE ICRA 2026</i></abbr> with <a href="https://github.com/sirine-b/MultiDiffSense"><img src="https://img.shields.io/github/stars/sirine-b/MultiDiffSense?style=social&label=Code+★" alt="code"></a>.
 		</li>
 		<li data-date="2026/01">: 
 		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One conference paper accepted by <abbr title="IEEE International Conference on Acoustics, Speech, and Signal Processing"><i>IEEE ICASSP 2026</i></abbr> with <a href="https://github.com/ziyangwang007/VMambaMorph"><img src="https://img.shields.io/github/stars/ziyangwang007/VMambaMorph?style=social&label=Code+★" /></a>.
@@ -98,7 +98,7 @@
 		A 20-min oral presentation entitled <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_6">"Recursive Deformable Image Registration Network with Mutual Attention"</a> is given at MIUA 2022 in Cambridge.
 		</li>
 		<li data-date="2022/06">: 
-		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One conference paper accepted by <abbr title="International Conference on Medical Image Computing and Computer Assisted Intervention"><i>MICCAI 2022</i></abbr> with <a href="https://github.com/br0202/M3Depth"><img src="https://img.shields.io/github/stars/br0202/M3Depth?style=social&label=Technique Code+★" /></a>  <a href="https://github.com/br0202/SL-Decoder"><img src="https://img.shields.io/github/stars/br0202/SL-Decoder?style=social&label=Data+★" /></a>.
+		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One conference paper accepted by <abbr title="International Conference on Medical Image Computing and Computer Assisted Intervention"><i>MICCAI 2022</i></abbr> with <a href="https://github.com/br0202/M3Depth"><img src="https://img.shields.io/github/stars/br0202/M3Depth?style=social&label=Code+★" /></a>  <a href="https://github.com/br0202/SL-Decoder"><img src="https://img.shields.io/github/stars/br0202/SL-Decoder?style=social&label=Data+★" /></a>.
 		</li>
 		<li data-date="2022/05">: 
 		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> Two conference papers accepted by <abbr title="Medical Image Understanding and Analysis conference"><i>MIUA 2022</i></abbr>, one oral presentation and one poster session.

@@ -2,6 +2,17 @@
 
 <details>
 <summary style="cursor: pointer;">
+<b>Advisory Committee</b>
+</summary>
+<ul>
+<li> 
+    <a href="https://www.gov.uk/government/publications/ai-research-resource" title="The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.">AI Research Resource (AIRR)</a> User Advisory Group, UK Research and Innovation (UKRI) & Department of Science, Innovation and Technology (DSIT)
+</li>
+</ul>
+</details>
+
+<details>
+<summary style="cursor: pointer;">
 <b>Editorial Board </b>
 </summary>
 <ul>

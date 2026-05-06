@@ -53,9 +53,11 @@
 <li> Pattern Recognition (PR), Elsevier</li>
 <li> Artificial Intelligence in Medicine (AIIM), Elsevier</li>
 <li> Computer Methods and Programs in Biomedicine (CMPB), Elsevier</li>
+<li> ISPRS Journal of Photogrammetry and Remote Sensing, Elsevier</li>
 <li> International Journal of Computer Vision (IJCV), Springer</li>
 <li> Journal of Imaging Informatics in Medicine / Journal of Digital Imaging (JDIM), Springer</li>
-<li> Frontiers of Medicine / MedScience, Springer Nature</li>
+<li> MedScience/Frontiers of Medicine, Springer Nature</li>
+<li> BMC Pulmonary Medicine, BMC </li>
 <li> IEEE Transactions on Image Processing (TIP)</li>
 <li> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
 <li> IEEE Transactions on Robotics (T-RO)</li>

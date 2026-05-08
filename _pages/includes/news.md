@@ -63,7 +63,7 @@
 		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> Two conference papers accepted by <abbr title="IEEE International Conference on Robotics and Automation"><i>IEEE ICRA 2026</i></abbr> with <a href="https://github.com/sirine-b/MultiDiffSense"><img src="https://img.shields.io/github/stars/sirine-b/MultiDiffSense?style=social&label=Code+★" alt="code"></a>.
 		</li>
 		<li data-date="2026/01">: 
-		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One conference paper accepted by <abbr title="IEEE International Conference on Acoustics, Speech, and Signal Processing"><i>IEEE ICASSP 2026</i></abbr> with <a href="https://github.com/ziyangwang007/VMambaMorph"><img src="https://img.shields.io/github/stars/ziyangwang007/VMambaMorph?style=social&label=Code+★" /></a>.
+		<code><i class="fas fa-laptop-medical white-icon"></i> Biomed_Analy</code> One conference paper (Oral) accepted by <abbr title="IEEE International Conference on Acoustics, Speech, and Signal Processing"><i>IEEE ICASSP 2026</i></abbr> with <a href="https://github.com/ziyangwang007/VMambaMorph"><img src="https://img.shields.io/github/stars/ziyangwang007/VMambaMorph?style=social&label=Code+★" /></a>.
 		</li>
 		<li data-date="2025/07">: 
 		Honored to join the <b>Editorial Board</b> of <abbr title="impact factor: 7.7 (Q1)"><i>PLOS Digital Health</i></abbr>, Public Library of Science.

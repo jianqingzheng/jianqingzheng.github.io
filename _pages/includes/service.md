@@ -56,8 +56,9 @@
 <li> ISPRS Journal of Photogrammetry and Remote Sensing, Elsevier</li>
 <li> International Journal of Computer Vision (IJCV), Springer</li>
 <li> Journal of Imaging Informatics in Medicine / Journal of Digital Imaging (JDIM), Springer</li>
-<li> MedScience/Frontiers of Medicine, Springer Nature</li>
-<li> BMC Pulmonary Medicine, BMC </li>
+<li> MedScience/Frontiers of Medicine, Springer Nature/Higher Education Press</li>
+<li> BMC Cancer Imaging, Springer Nature </li>
+<li> BMC Pulmonary Medicine, Springer Nature </li>
 <li> IEEE Transactions on Image Processing (TIP)</li>
 <li> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
 <li> IEEE Transactions on Robotics (T-RO)</li>

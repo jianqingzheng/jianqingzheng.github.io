@@ -60,6 +60,7 @@
 <li> BMC Cancer Imaging, Springer Nature </li>
 <li> BMC Pulmonary Medicine, Springer Nature </li>
 <li> IEEE Transactions on Image Processing (TIP)</li>
+<li> IEEE Transactions on Multimedia (TMM)</li>
 <li> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
 <li> IEEE Transactions on Robotics (T-RO)</li>
 <li> IEEE Robotics and Automation Letters (RA-L)</li>

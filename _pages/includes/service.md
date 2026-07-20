@@ -30,7 +30,7 @@
 <b>Organizer </b>
 </summary>
 <ul>
-<li>: 
+<li>
 <b>NeurIPS 2026</b> <a href="https://physworld-org.github.io/physworld.github.io/">the 1st Workshop on Physical World AI (PhysWorldAI)</a>
 </li>
 <li> 

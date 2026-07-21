@@ -1,5 +1,7 @@
 # <i class="fas fa-comment-dots"></i> Talks
 
+- "Generative Models on the Space of Diffeomorphisms: A Deformation-Centric Framework for Multi-Organ Anatomy", *Mathematical Institute, University of Oxford*, 2026, **Invited talk**. 
+- "Manydepth2: Motion-aware self-supervised monocular depth estimation in dynamic scenes", *IEEE ICRA*, 2026, **poster presentation**. 
 - "AI-assisted segmentation and thickness measurement of cartilage shape from CT scans contrasted with a type II collagen binding peptide containing di-iodotyrosine", *Cutting Edge Osteoarthritis Meeting*, 2023, **poster presentation**. 
 - "Recursive Deformable Image Registration Network with Mutual Attention", *the 26th Annual Conference for Medical Image Understanding and Analysis*, 2022, **20-minute oral presentation**. 
 - "An AI model for aligning and extracting cartilage shape from CT scans contrasted with a type II collagen binding peptide containing di-iodotyrosine", *Cutting Edge Osteoarthritis Meeting*, 2022, **3-minute talk & poster presentation**. 

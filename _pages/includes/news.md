@@ -59,6 +59,9 @@
 		<li data-date="2026/12">: 
 		[Call for Paper!] <b>NeurIPS 2026</b> <a href="https://physworld-org.github.io/physworld.github.io/">1st Workshop on Physical World AI (PhysWorldAI)</a> will be held in Atlanta USA.
 		</li>
+		<li data-date="2026/08">: 
+		<code><i class="fas fa-heartbeat white-icon"></i> Surg_Navig</code> One journal papers accepted by <abbr title="impact factor: 18.1 (Q1)"><i>Nature Communication</i></abbr>.
+		</li>
 		<li data-date="2026/07">: 
 		<code><i class="fas fa-dna white-icon"></i> Comput_Bio</code> One journal paper accepted by <abbr title="impact factor: 6.8 (Q1)"><i>Journal of Autoimmunity</i></abbr>.
 		</li>
